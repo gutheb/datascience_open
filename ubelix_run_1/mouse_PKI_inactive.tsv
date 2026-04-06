@@ -1,0 +1,523 @@
+Compound_new_ID	nonstereo_aromatic_smiles	Uniprot_ID	pref_name	activity_id	mean_log	selected_stvalue	ORGANISM
+ID_41359	CCCCCCCCCC(=O)Nc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250792', 'CHEMBL'), ('50627874', 'BDB')}	4.66	ki	mouse
+ID_47366	CCCCCCCCCC(=O)Nc1ccc(S(=O)(=O)Nc2nnc(C)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250793', 'CHEMBL'), ('50627875', 'BDB')}	4.96	ki	mouse
+ID_111745	CCCCCCCCCC(=O)Nc1ccc(S(=O)(=O)Nc2nnc(C(C)(C)C)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627877', 'BDB'), ('5250795', 'CHEMBL')}	4.92	ki	mouse
+ID_156034	CCCCCCCCCC(=O)Nc1ccc(S(=O)(=O)Nc2nnc(CO)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250799', 'CHEMBL'), ('50627881', 'BDB')}	4.96	ki	mouse
+ID_58403	CCCCCCCCCCCCCCCCCCc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627889', 'BDB'), ('5250807', 'CHEMBL')}	4.92	ki	mouse
+ID_168159	CCCCCCCCCCCCc1ccc(S(=O)(=O)Nc2nnc(C(=O)OCC)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627895', 'BDB'), ('5250813', 'CHEMBL')}	4.72	ki	mouse
+ID_169373	O=S(=O)(Nc1nncs1)c1ccc(-c2ccccc2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627898', 'BDB'), ('5250816', 'CHEMBL')}	4.72	ki	mouse
+ID_62105	CCc1nnc(NS(=O)(=O)c2ccc(-c3ccccc3)cc2)s1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627899', 'BDB'), ('5250817', 'CHEMBL')}	4.77	ki	mouse
+ID_88374	O=S(=O)(Nc1nnc(CO)s1)c1ccc(-c2ccccc2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250818', 'CHEMBL'), ('50627900', 'BDB')}	4.4	ki	mouse
+ID_60726	COCCOCCOCC(=O)Nc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250819', 'CHEMBL'), ('50627901', 'BDB')}	4.39	ki	mouse
+ID_18829	CCCCCCCCCCCCc1ccccc1S(=O)(=O)Nc1nncs1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250821', 'CHEMBL'), ('50627903', 'BDB')}	4.74	ki	mouse
+ID_141300	Nc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250776', 'CHEMBL'), ('50627872', 'BDB')}		ki	mouse
+ID_145024	CC(=O)Nc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250783', 'CHEMBL'), ('50627873', 'BDB')}		ki	mouse
+ID_95846	CCCCCCCCCC(=O)Nc1ccc(S(=O)(=O)Nc2nnc(S(N)(=O)=O)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627882', 'BDB'), ('5250800', 'CHEMBL')}		ki	mouse
+ID_115585	CCCCc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250801', 'CHEMBL'), ('50627883', 'BDB')}		ki	mouse
+ID_66430	CCCCCCc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('5250802', 'CHEMBL'), ('50627884', 'BDB')}		ki	mouse
+ID_108392	CCCCCCCCc1ccc(S(=O)(=O)Nc2nncs2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627885', 'BDB'), ('5250803', 'CHEMBL')}		ki	mouse
+ID_65851	CCCCCCCCCCCCc1ccc(S(=O)(=O)Nc2nnc(C)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627890', 'BDB'), ('5250808', 'CHEMBL')}		ki	mouse
+ID_157019	CCCCCCCCCCCCc1ccc(S(=O)(=O)Nc2nnc(C(C)(C)C)s2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627892', 'BDB'), ('5250810', 'CHEMBL')}		ki	mouse
+ID_68956	CCCCCCCCCCCCc1ccc(S(=O)(=O)Nc2ccccc2)cc1	P31750	RAC-alpha serine/threonine-protein kinase	{('50627902', 'BDB'), ('5250820', 'CHEMBL')}		ki	mouse
+ID_161734	CCCCCCCCCC(OC(=O)CCCCCCC)C(C)O	P28867	Protein kinase C delta	{('16643225', 'CHEMBL'), ('50508603', 'BDB')}		ki	mouse
+ID_106302	NC1(CNC(=O)CC(NS(=O)(=O)c2ccc(N3C(=O)CCC3=O)nc2)c2ccccc2)C2CC3CC(C2)CC1C3	P47811	MAP kinase p38 alpha	{('20663199', 'CHEMBL'), ('51338471', 'BDB')}	4.6	kd	mouse
+ID_11904	CC1(C(=O)NCC2(N)C3CC4CC(C3)CC2C4)CN(S(=O)(=O)c2ccc(N3C(=O)CCC3=O)nc2)CCO1	P47811	MAP kinase p38 alpha	{('51338472', 'BDB'), ('20663200', 'CHEMBL')}	4.24	kd	mouse
+ID_69228	N=C(N)NCC12CC3CC(CC(C3)C1)C2	P47811	MAP kinase p38 alpha	{('20663201', 'CHEMBL'), ('51338473', 'BDB')}	3.95	kd	mouse
+ID_78986	Nc1ncnc2c1ncn2C1OC(C(=O)NCCCCCC(=O)O)C(O)C1O	P05132		{('49968', 'BDB')}	4.25	kd	mouse
+ID_18617	NC(=O)CCCNC(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O	P05132		{('49969', 'BDB')}	4.01	kd	mouse
+ID_44539	NC(=O)CCCCCNC(=O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O	P05132		{('49970', 'BDB')}	4.28	kd	mouse
+ID_9814	Nc1ncnc2c1ncn2C1OC(C(=O)NCCCCCC(=O)NCCO)C(O)C1O	P05132		{('49975', 'BDB')}	4.73	kd	mouse
+ID_164842	Nc1ncnc2c1ncn2C1OC(C(=O)NCCCCCC(=O)NCc2ccccc2)C(O)C1O	P05132		{('49976', 'BDB')}	4.87	kd	mouse
+ID_169457	C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3OC)ncc2Cl)c1	P00520	Tyrosine-protein kinase ABL	{('51106564', 'BDB'), ('18456158', 'CHEMBL'), ('51106583', 'BDB'), ('18456192', 'CHEMBL')}	4.9	IC50	mouse
+ID_110074	CC(CCC(=O)O)C1CCC2C3CCC4CC(OC(N)=O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('22469673', 'CHEMBL'), ('22469674', 'CHEMBL')}	4.9	IC50	mouse
+ID_15738	COc1ccc(Cc2nc(NC3=NC(=O)N(C)C3=O)n(C)c2Cc2ccc(O)cc2)cc1	Q01279	Epidermal growth factor receptor erbB1	{('50115373', 'BDB'), ('1080537', 'CHEMBL')}	4.95	IC50	mouse
+ID_38444	O=c1c(-c2cccc(Cl)c2)coc2cc(O)cc(O)c12	Q01279	Epidermal growth factor receptor erbB1	{('565751', 'CHEMBL'), ('50996662', 'BDB')}	4.8	IC50	mouse
+ID_35409	COc1cc(O)c2c(O)c(-c3cccc(Cl)c3)cnc2c1	Q01279	Epidermal growth factor receptor erbB1	{('50996659', 'BDB'), ('566930', 'CHEMBL')}	4.94	IC50	mouse
+ID_87664	COc1cc(OC)c2c(=O)c(-c3cccc(Cl)c3)coc2c1	Q01279	Epidermal growth factor receptor erbB1	{('50996657', 'BDB'), ('572079', 'CHEMBL')}	4.34	IC50	mouse
+ID_55854	COc1cc(O)c2c(=O)c(-c3cccc(Cl)c3)coc2c1	Q01279	Epidermal growth factor receptor erbB1	{('50996656', 'BDB'), ('584264', 'CHEMBL')}	4.34	IC50	mouse
+ID_150274	Oc1cc(O)c2c(O)c(-c3cccc(Cl)c3)cnc2c1	Q01279	Epidermal growth factor receptor erbB1	{('587982', 'CHEMBL'), ('50996655', 'BDB')}	4.99	IC50	mouse
+ID_172485	O=C1NCc2ccccc2N1c1c(Cl)cccc1Cl	P47811	MAP kinase p38 alpha	{('50253541', 'BDB'), ('413654', 'CHEMBL')}	4.93	IC50	mouse
+ID_164034	COc1cc2c(-c3ccccc3)nc(=O)n(C(C)C)c2cc1N1CCOCC1	P47811	MAP kinase p38 alpha	{('418489', 'CHEMBL'), ('50253546', 'BDB')}	4.85	IC50	mouse
+ID_73726	CNC(=O)c1c(SSc2c(C(=O)NC)c3ccccc3n2C)n(C)c2ccccc12	P05622	Platelet-derived growth factor receptor beta	{('329899', 'CHEMBL'), ('4950', 'BDB')}	4.55	IC50	mouse
+ID_126264	CCN(CC)CCNC(=O)c1c([Se][Se]c2[nH]c3ccccc3c2C(=O)NCCN(CC)CC)[nH]c2ccccc12	P05622	Platelet-derived growth factor receptor beta	{('4956', 'BDB'), ('329907', 'CHEMBL')}	4.89	IC50	mouse
+ID_152003	Cn1c([Se][Se]c2c(C(=O)O)c3ccccc3n2C)c(C(=O)O)c2ccccc21	P05622	Platelet-derived growth factor receptor beta	{('331169', 'CHEMBL'), ('4952', 'BDB')}	4.76	IC50	mouse
+ID_54251	CCN(CC)CCn1c([Se][Se]c2c(C(=O)NC)c3ccccc3n2CCN(CC)CC)c(C(=O)NC)c2ccccc21	P05622	Platelet-derived growth factor receptor beta	{('4957', 'BDB'), ('335195', 'CHEMBL')}	4.3	IC50	mouse
+ID_134390	Nc1ncnc2c1nc(N)n2C1OC(COP(=O)(O)OC2C(O)C(COP(=O)(O)OC3C(O)C(CO)OC3n3c(N)nc4c(N)ncnc43)OC2n2c(N)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('93768', 'CHEMBL')}	4.0	IC50	mouse
+ID_97159	COc1cc(OC)cc(-c2cc3cnc(NCCCCO)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9974', 'BDB'), ('1489636', 'CHEMBL')}	4.64	IC50	mouse
+ID_118935	COc1cc(OC)cc(-c2cc3cnc(NCCCCCO)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9990', 'BDB'), ('1489646', 'CHEMBL')}	4.96	IC50	mouse
+ID_4039	CCNC(=O)Nc1nc2nc(NCCCN3CCN(C)CC3)ncc2cc1-c1cc(OC)cc(OC)c1	P05622	Platelet-derived growth factor receptor beta	{('10012', 'BDB'), ('1489884', 'CHEMBL')}	4.35	IC50	mouse
+ID_12948	COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)nc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489894', 'CHEMBL'), ('10013', 'BDB')}	4.51	IC50	mouse
+ID_82033	CCNC(=O)Nc1nc2nc(NCCCCN(CC)CC)ncc2cc1-c1cc(OC)cc(OC)c1	P05622	Platelet-derived growth factor receptor beta	{('10014', 'BDB'), ('1489904', 'CHEMBL')}	4.57	IC50	mouse
+ID_174482	CCN(CC)CCCCNc1ncc2cc(-c3cc(OC)cc(OC)c3)c(NC(=O)NC(C)(C)C)nc2n1	P05622	Platelet-derived growth factor receptor beta	{('1490019', 'CHEMBL'), ('10015', 'BDB')}	4.85	IC50	mouse
+ID_88740	COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCOCC4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1490660', 'CHEMBL'), ('9850', 'BDB')}	4.35	IC50	mouse
+ID_24758	COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)cc3nc2N)c1	P05622	Platelet-derived growth factor receptor beta	{('1490669', 'CHEMBL'), ('9851', 'BDB')}	4.3	IC50	mouse
+ID_3806	CCNC(=O)Nc1nc2cc(NCCCN3CCN(C)CC3)ncc2cc1-c1cc(OC)cc(OC)c1	P05622	Platelet-derived growth factor receptor beta	{('9852', 'BDB'), ('1490678', 'CHEMBL')}	4.52	IC50	mouse
+ID_154679	COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1490795', 'CHEMBL'), ('9853', 'BDB')}	4.8	IC50	mouse
+ID_35773	CCN(CC)CCCNc1cc2nc(NC(=O)NC(C)(C)C)c(-c3cc(OC)cc(OC)c3)cc2cn1	P05622	Platelet-derived growth factor receptor beta	{('9854', 'BDB'), ('1490805', 'CHEMBL')}	4.74	IC50	mouse
+ID_138464	COc1cc(OC)cc(-c2cc3cnc(NCCCCN4CCOCC4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1490815', 'CHEMBL'), ('9870', 'BDB')}	4.82	IC50	mouse
+ID_132956	COc1cc(OC)cc(-c2cc3cnc(NCCCCCN4CCN(C)CC4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9891', 'BDB'), ('1491089', 'CHEMBL')}	4.57	IC50	mouse
+ID_125156	CCN(CC)CCCCNc1cc2nc(N)c(-c3ccccc3)cc2cn1	P05622	Platelet-derived growth factor receptor beta	{('9911', 'BDB'), ('1491227', 'CHEMBL')}	4.92	IC50	mouse
+ID_49504	COc1cc(OC)cc(-c2cc3cnc(NCCCO)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491609', 'CHEMBL'), ('9973', 'BDB')}	4.49	IC50	mouse
+ID_53456	COc1ccc(O)c(-c2cc(-c3ccccc3Cl)[nH]n2)c1	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('1735020', 'CHEMBL')}	4.7	IC50	mouse
+ID_155734	CN1C(=O)C(=C2SC(Nc3ccc(F)cc3)=NC2=O)c2ccccc21	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('1735076', 'CHEMBL'), ('50839294', 'BDB')}	4.3	IC50	mouse
+ID_3371	CCOC(=O)c1ccc2ncc(C(=O)OCC)c(Nc3ccc(C)c(Br)c3)c2c1	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('1735091', 'CHEMBL'), ('50839302', 'BDB')}	4.3	IC50	mouse
+ID_150939	CCOC(=O)c1cnc2ccc(C(=O)OC)cc2c1Nc1cccc(C(C)=O)c1	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('50839295', 'BDB'), ('1735102', 'CHEMBL')}	4.3	IC50	mouse
+ID_89293	C=CCOc1ccc(Br)cc1C=C1SC(Nc2ccc(Cl)c(C(=O)O)c2)=NC1=O	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('1735109', 'CHEMBL'), ('50839296', 'BDB')}	4.7	IC50	mouse
+ID_66272	Cc1cc(C)c(NC(=O)c2sc(NC(=O)OCc3ccccc3)nc2C)c(C)c1	P06240	Tyrosine-protein kinase LCK	{('23741', 'BDB'), ('1778491', 'CHEMBL')}	4.48	IC50	mouse
+ID_110409	Cc1ccc(NC(=O)c2sc(NC(=O)OC(C)(C)C)nc2C)c(C)c1	P06240	Tyrosine-protein kinase LCK	{('23739', 'BDB'), ('1778493', 'CHEMBL')}	4.56	IC50	mouse
+ID_56615	COc1cccc(C)c1NC(=O)c1sc(NC(=O)OC(C)(C)C)nc1C	P06240	Tyrosine-protein kinase LCK	{('50246940', 'BDB'), ('1778494', 'CHEMBL'), ('23738', 'BDB')}	4.61	IC50	mouse
+ID_130753	Cc1cccc(C(C)C)c1NC(=O)c1sc(NC(=O)OC(C)(C)C)nc1C	P06240	Tyrosine-protein kinase LCK	{('23737', 'BDB'), ('1778495', 'CHEMBL'), ('50246930', 'BDB')}	4.39	IC50	mouse
+ID_59968	Cc1ccccc1NC(=O)c1sc(NC(=O)OC(C)(C)C)nc1C	P06240	Tyrosine-protein kinase LCK	{('23736', 'BDB'), ('50246907', 'BDB'), ('1778496', 'CHEMBL')}	4.34	IC50	mouse
+ID_48197	O=C(c1cc2cccc(O)c2o1)c1cc2cccc(O)c2o1	P05622	Platelet-derived growth factor receptor beta	{('1874052', 'CHEMBL'), ('50370694', 'BDB')}	4.7	IC50	mouse
+ID_67518	Cn1cnc2ccc(Nc3ccnc(Nc4cccc(C(N)=O)c4)n3)cc21	P06240	Tyrosine-protein kinase LCK	{('47528', 'BDB'), ('2038476', 'CHEMBL')}	4.8	IC50	mouse
+ID_64001	CCC(C)C1C(C)(O)C(=O)C2(O)CC(C)(O)CC(C)C2C1(C)C(=O)C=COC	P16054	Protein kinase C epsilon	{('2181215', 'CHEMBL'), ('50159255', 'BDB')}	4.44	IC50	mouse
+ID_29234	COC(C)c1c(O)cc2c(c1O)C(=O)c1c(cc(O)c(O)c1O)C2=O	P16054	Protein kinase C epsilon	{('2181216', 'CHEMBL'), ('50159256', 'BDB')}	4.27	IC50	mouse
+ID_155414	COC(C)c1c(O)cc2c(c1O)C(=O)c1c(O)cc(O)cc1C2=O	P16054	Protein kinase C epsilon	{('2181217', 'CHEMBL'), ('50159257', 'BDB')}	4.57	IC50	mouse
+ID_165482	CC(O)c1c(O)cc2c(c1O)C(=O)c1c(O)cc(O)cc1C2=O	P16054	Protein kinase C epsilon	{('50159258', 'BDB'), ('2181218', 'CHEMBL')}	4.73	IC50	mouse
+ID_3357	CCC(C)C(NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(CCC(=O)O)NC(=O)C(CC(N)=O)NC(=O)C(N)CO)C(=O)NC(CCC(N)=O)C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(CCC(N)=O)C(=O)NC(Cc1cnc[nH]1)C(=O)O	P54763	Ephrin type-B receptor 2	{('2187856', 'CHEMBL')}	4.82	IC50	mouse
+ID_87823	COc1nc(-c2ccccc2)ccc1-c1noc(-c2ccncc2)n1	P42337	PI3-kinase p110-alpha subunit	{('3016053', 'CHEMBL'), ('50156911', 'BDB')}	4.11	IC50	mouse
+ID_128613	Cc1ccc2cc3c(OC(=O)COc4ccccc4)nn(C)c3nc2c1	P42337	PI3-kinase p110-alpha subunit	{('50156929', 'BDB'), ('3016057', 'CHEMBL')}	4.42	IC50	mouse
+ID_65082	O=C(CCn1c(=O)oc2cc(Cl)ccc21)Nc1ccccc1	P42337	PI3-kinase p110-alpha subunit	{('50156913', 'BDB'), ('3016059', 'CHEMBL')}	4.72	IC50	mouse
+ID_78965	O=C(Nc1ccc(Cl)c(C(F)(F)F)c1)Nc1ccc(OCCN2CCOCC2)c2ccccc12	P00520	Tyrosine-protein kinase ABL	{('50589677', 'BDB'), ('3397790', 'CHEMBL')}	4.89	IC50	mouse
+ID_9475	COc1ccc(-c2nnc(SCc3cccc(Cl)c3)o2)c(O)c1	P42337	PI3-kinase p110-alpha subunit	{('50930307', 'BDB'), ('10860013', 'CHEMBL')}	4.81	IC50	mouse
+ID_35839	COc1ccc(-c2nnc(SCc3ccccc3F)o2)c(O)c1	P42337	PI3-kinase p110-alpha subunit	{('50930309', 'BDB'), ('10860014', 'CHEMBL')}	4.47	IC50	mouse
+ID_122082	COc1ccc(-c2nnc(SCc3ccc(F)cc3)o2)c(O)c1	P42337	PI3-kinase p110-alpha subunit	{('50930289', 'BDB'), ('10860015', 'CHEMBL')}	4.51	IC50	mouse
+ID_34922	COc1ccc(-c2nnc(SCc3cccc([N+](=O)[O-])c3)o2)c(O)c1	P42337	PI3-kinase p110-alpha subunit	{('50930290', 'BDB'), ('10860016', 'CHEMBL')}	4.75	IC50	mouse
+ID_64831	Cc1ccc(-c2nnc(SCc3ccc([N+](=O)[O-])cc3)o2)c(O)c1	P42337	PI3-kinase p110-alpha subunit	{('50930292', 'BDB'), ('10860018', 'CHEMBL')}	4.26	IC50	mouse
+ID_68644	CCN(CC)CCCOc1ccc(N2C(=O)C(=Cc3ccc(Oc4ccc(Cl)cc4)cc3)SC2=S)cc1	O88351	Inhibitor of nuclear factor kappa-B kinase subunit beta	{('10995966', 'CHEMBL'), ('50951269', 'BDB')}	4.89	IC50	mouse
+ID_145476	NC(=O)c1cccc(Oc2ccc(C=C3SC(=S)N(c4ccc(OCCCN5CCCCC5)cc4)C3=O)cc2)c1	O88351	Inhibitor of nuclear factor kappa-B kinase subunit beta	{('10995974', 'CHEMBL'), ('50951276', 'BDB')}	4.52	IC50	mouse
+ID_26120	NC(=O)c1ccc(Oc2ccc(C=C3SC(=S)N(c4ccc(OCCCN5CCCCC5)cc4)C3=O)cc2)cc1	O88351	Inhibitor of nuclear factor kappa-B kinase subunit beta	{('10995975', 'CHEMBL'), ('50951228', 'BDB')}	4.52	IC50	mouse
+ID_40779	CN1CCN(CCCOc2ccc(N3C(=O)C(=Cc4ccc(Oc5ccccc5C(N)=O)cc4)SC3=S)cc2)CC1	O88351	Inhibitor of nuclear factor kappa-B kinase subunit beta	{('10995976', 'CHEMBL'), ('50951229', 'BDB')}	4.92	IC50	mouse
+ID_75673	CC(C)C(N)C(=O)OCC(O)CNc1nc(NCc2ccc(-c3ccccn3)cc2)c2ncn(C(C)C)c2n1	P22518	Dual specificity protein kinase CLK1	{('11009488', 'CHEMBL'), ('51027094', 'BDB')}	4.92	IC50	mouse
+ID_107658	COc1cc(-c2cnc3[nH]c(=O)n(-c4ccc5[nH]ccc5c4)c3n2)cc(OC)c1OC	Q80XI6	Mitogen-activated protein kinase kinase kinase 11	{('51079904', 'BDB'), ('13476442', 'CHEMBL')}	4.63	IC50	mouse
+ID_87058	O=C(Nc1nc2cc3c(cc2[nH]1)OC(F)(F)O3)c1csc(NC(=O)c2ccccc2OC(F)(F)F)n1	Q9DC28	Casein kinase I delta	{('15104945', 'CHEMBL'), ('15104947', 'CHEMBL'), ('15104944', 'CHEMBL'), ('15104946', 'CHEMBL')}	4.37	IC50	mouse
+ID_47470	CCOc1cccc(F)c1-c1cccc2nc(Nc3cc(OC)c(OC)c(OC)c3)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035088', 'CHEMBL')}	4.97	IC50	mouse
+ID_86552	COc1ccc(C)cc1-c1cccc2nc(Nc3cc(OC)c(OC)c(OC)c3)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035089', 'CHEMBL')}	4.84	IC50	mouse
+ID_100530	COc1cccc(Nc2nc3cccc(-c4c(F)cccc4OC)c3o2)c1	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035090', 'CHEMBL')}	4.81	IC50	mouse
+ID_24516	COc1cc(Nc2nc3cccc(-c4c(F)cccc4OC)c3o2)cc(OC)c1	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035091', 'CHEMBL')}	4.76	IC50	mouse
+ID_62691	COc1cc(Nc2nc3cccc(-c4ccccc4F)c3o2)cc(OC)c1OC	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035092', 'CHEMBL')}	4.74	IC50	mouse
+ID_16616	COc1cc(Nc2nc3cccc(-c4nc(C)[nH]c4C)c3o2)cc(OC)c1OC	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035093', 'CHEMBL')}	4.7	IC50	mouse
+ID_86873	Cc1c(NC(=O)c2cc3c(s2)CCCC3)cccc1-c1cn(C)c(=O)c(Nc2ccc(-c3ncc[nH]3)cc2)n1	P35991	Tyrosine-protein kinase BTK	{('50300801', 'BDB'), ('15166710', 'CHEMBL')}	4.62	IC50	mouse
+ID_4607	Fc1ccccc1CON=Cc1cn(-c2ccccc2)nc1-c1ccccc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441281', 'CHEMBL'), ('50451305', 'BDB')}	4.98	IC50	mouse
+ID_127940	C(=NOCc1ccccc1)c1cn(-c2ccccc2)nc1-c1ccccc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451306', 'BDB'), ('16441282', 'CHEMBL')}	4.74	IC50	mouse
+ID_70343	Clc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccc(Cl)cc2Cl)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451277', 'BDB'), ('16441314', 'CHEMBL')}	4.97	IC50	mouse
+ID_48483	Clc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441319', 'CHEMBL'), ('50451280', 'BDB')}	4.73	IC50	mouse
+ID_79768	COc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2F)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441323', 'CHEMBL'), ('50451283', 'BDB')}	4.69	IC50	mouse
+ID_137398	COc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2Cl)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441324', 'CHEMBL'), ('50451284', 'BDB')}	4.7	IC50	mouse
+ID_114627	COc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccc(Cl)cc2Cl)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451285', 'BDB'), ('16441325', 'CHEMBL')}	4.56	IC50	mouse
+ID_65260	Fc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441326', 'CHEMBL'), ('50451286', 'BDB')}	4.76	IC50	mouse
+ID_103613	COc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451287', 'BDB'), ('16441327', 'CHEMBL')}	4.58	IC50	mouse
+ID_34114	Cc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451288', 'BDB'), ('16441329', 'CHEMBL')}	4.39	IC50	mouse
+ID_131600	Cc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2F)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451289', 'BDB'), ('16441330', 'CHEMBL')}	4.55	IC50	mouse
+ID_9850	Cc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccccc2Cl)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441331', 'CHEMBL'), ('50451290', 'BDB')}	4.46	IC50	mouse
+ID_132572	Cc1ccc(-c2nn(-c3ccccc3)cc2C=NOCc2ccc(Cl)cc2Cl)cc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441332', 'CHEMBL'), ('50451291', 'BDB')}	4.42	IC50	mouse
+ID_52054	Clc1ccc(CON=Cc2cn(-c3ccccc3)nc2-c2ccccc2)c(Cl)c1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('16441333', 'CHEMBL'), ('50451292', 'BDB')}	4.78	IC50	mouse
+ID_117925	Clc1ccccc1CON=Cc1cn(-c2ccccc2)nc1-c1ccccc1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50451293', 'BDB'), ('16441335', 'CHEMBL')}	4.72	IC50	mouse
+ID_146970	CN1CCN(CCCOc2ccc(N3C(=O)C(=Cc4ccc(Oc5ccc(C(=O)N(C)C)cc5)cc4)SC3=S)cc2)CC1	O88351	Inhibitor of nuclear factor kappa-B kinase subunit beta	{('50455939', 'BDB'), ('16473745', 'CHEMBL')}	4.7	IC50	mouse
+ID_127500	CC(=O)Nc1ccc(Oc2ccc(C=C3SC(=S)N(c4ccc(OCCCN5CCN(C)CC5)cc4)C3=O)cc2)cc1	O88351	Inhibitor of nuclear factor kappa-B kinase subunit beta	{('16474649', 'CHEMBL'), ('50467764', 'BDB')}	4.7	IC50	mouse
+ID_145131	CC(C)CC(=O)c1c(O)cc(O)cc1O	P05480	Tyrosine-protein kinase SRC	{('50522663', 'BDB'), ('16756156', 'CHEMBL')}	4.3	IC50	mouse
+ID_36148	COc1cc(O)c(C(=O)CC(C)C)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('50522636', 'BDB'), ('16756158', 'CHEMBL')}	4.29	IC50	mouse
+ID_78568	COc1cc(OC)c(C(=O)CC(C)C)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('16756159', 'CHEMBL'), ('50522638', 'BDB')}	4.95	IC50	mouse
+ID_134200	CC(C)CC(=O)c1ccc(O)cc1	P05480	Tyrosine-protein kinase SRC	{('16756161', 'CHEMBL'), ('50522661', 'BDB')}	4.04	IC50	mouse
+ID_166052	CCCCC(=O)c1c(O)cc(O)cc1O	P05480	Tyrosine-protein kinase SRC	{('16756162', 'CHEMBL'), ('50522664', 'BDB')}	4.95	IC50	mouse
+ID_28812	CC(C)NC(=O)c1c(O)cc(O)cc1O	P05480	Tyrosine-protein kinase SRC	{('16756164', 'CHEMBL'), ('50522658', 'BDB')}	4.03	IC50	mouse
+ID_134990	CCCCNC(=O)c1c(O)cc(O)cc1O	P05480	Tyrosine-protein kinase SRC	{('50522643', 'BDB'), ('16756165', 'CHEMBL')}	4.43	IC50	mouse
+ID_112546	COc1cc(OC)c(C(=O)CN2CCCCC2)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('50522644', 'BDB'), ('16756166', 'CHEMBL')}	4.6	IC50	mouse
+ID_120678	COc1cc(OC)c(C(=O)CN2CCOCC2)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('16756167', 'CHEMBL'), ('50522665', 'BDB')}	4.49	IC50	mouse
+ID_72365	COc1cc(OC)c(C(=O)CN2CCN(C)CC2)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('50522633', 'BDB'), ('16756168', 'CHEMBL')}	4.02	IC50	mouse
+ID_16214	CCN1CCN(CC(=O)c2c(OC)cc(OC)cc2OC)CC1	P05480	Tyrosine-protein kinase SRC	{('50522645', 'BDB'), ('16756169', 'CHEMBL')}	4.64	IC50	mouse
+ID_154435	CN(CCCC(=O)c1c(O)cc(O)cc1O)C1CCCCC1	P05480	Tyrosine-protein kinase SRC	{('16756171', 'CHEMBL'), ('50522641', 'BDB')}	4.26	IC50	mouse
+ID_162846	COc1cc(OC)c(CNC(C)C(=O)O)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('50522646', 'BDB'), ('16756172', 'CHEMBL')}	4.41	IC50	mouse
+ID_117802	COc1cc(OC)c(CNC(CC(=O)O)C(=O)O)c(OC)c1	P05480	Tyrosine-protein kinase SRC	{('50522634', 'BDB'), ('16756174', 'CHEMBL')}	4.84	IC50	mouse
+ID_39451	COc1cc(OC)c(C(=O)CC(C)C)c(OCC(O)CNC(C)C)c1	P05480	Tyrosine-protein kinase SRC	{('50522667', 'BDB'), ('16756176', 'CHEMBL'), ('16756182', 'CHEMBL'), ('50522662', 'BDB'), ('50522637', 'BDB')}	4.15	IC50	mouse
+ID_133866	COc1cc(OC)c(C(=O)CC(C)C)c(OCC(O)CNC(C)(C)C)c1	P05480	Tyrosine-protein kinase SRC	{('50522649', 'BDB'), ('16756177', 'CHEMBL'), ('50522666', 'BDB'), ('16756183', 'CHEMBL')}	4.54	IC50	mouse
+ID_67436	CC(C)CC(=O)c1c(O)cc(O)cc1OCC(O)CNC(C)C	P05480	Tyrosine-protein kinase SRC	{('16756179', 'CHEMBL'), ('50522657', 'BDB')}	4.13	IC50	mouse
+ID_152720	CC(C)CC(=O)c1c(O)cc(O)cc1OCC(O)CNC(C)(C)C	P05480	Tyrosine-protein kinase SRC	{('50522654', 'BDB'), ('50522652', 'BDB'), ('16756180', 'CHEMBL'), ('50522635', 'BDB'), ('16756188', 'CHEMBL'), ('16756189', 'CHEMBL')}	4.57	IC50	mouse
+ID_26810	COc1ccc(C(=O)CC(C)C)c(OCC(O)CNC(C)C)c1	P05480	Tyrosine-protein kinase SRC	{('50522639', 'BDB'), ('16756185', 'CHEMBL'), ('50522650', 'BDB'), ('16756184', 'CHEMBL')}	4.49	IC50	mouse
+ID_68886	COc1ccc(C(=O)CC(C)C)c(OCC(O)CNC(C)(C)C)c1	P05480	Tyrosine-protein kinase SRC	{('50522640', 'BDB'), ('50522648', 'BDB'), ('16756187', 'CHEMBL'), ('50522651', 'BDB'), ('16756186', 'CHEMBL')}	4.3	IC50	mouse
+ID_83634	CC(C)(C)c1[nH]cnc1C=c1[nH]c(=O)c(=Cc2ccccc2)[nH]c1=O	P25911	Tyrosine-protein kinase Lyn	{('16893230', 'CHEMBL')}	4.95	IC50	mouse
+ID_50767	CON=C1CCC2(C)C(CCC3C2CCC2(C)C(C(C)CCC(=O)NC(CC(=O)O)Cc4c[nH]c5ccccc45)CCC32)C1	Q03145	Ephrin type-A receptor 2	{('18008009', 'CHEMBL'), ('50718497', 'BDB')}	4.89	IC50	mouse
+ID_126773	CC(CCC(=O)NC(CC(=O)O)Cc1c[nH]c2ccccc12)C1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('50718521', 'BDB'), ('18008012', 'CHEMBL')}	4.55	IC50	mouse
+ID_28883	CC(CCC(=O)NC(CC(=O)O)Cc1c[nH]c2ccccc12)C1CCC2C3CCC4CCCCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('18008041', 'CHEMBL'), ('50718536', 'BDB'), ('50718505', 'BDB'), ('18008013', 'CHEMBL')}	4.55	IC50	mouse
+ID_131628	CC(CCC(=O)NC(CC(=O)O)Cc1ccccc1)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('18008019', 'CHEMBL'), ('50718526', 'BDB')}	4.74	IC50	mouse
+ID_61465	CC(CCC(=O)NC(CC(=O)O)c1ccccc1)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('18008020', 'CHEMBL'), ('50718528', 'BDB')}	4.85	IC50	mouse
+ID_28184	CSCCC(CC(=O)O)NC(=O)CCC(C)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('50718541', 'BDB'), ('18008022', 'CHEMBL')}	4.08	IC50	mouse
+ID_124435	CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('50718645', 'BDB'), ('18008023', 'CHEMBL')}	4.14	IC50	mouse
+ID_7019	CC(CCC(=O)NCCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('50718506', 'BDB'), ('18008024', 'CHEMBL'), ('50718646', 'BDB'), ('18008037', 'CHEMBL')}	4.54	IC50	mouse
+ID_60285	CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('50718522', 'BDB'), ('51142745', 'BDB'), ('18784712', 'CHEMBL'), ('18008025', 'CHEMBL')}	4.17	IC50	mouse
+ID_48502	Cn1cc(-c2cccc(N3CCn4c(nc5c4CCCC5)C3=O)c2CO)cc(Nc2ccncn2)c1=O	P35991	Tyrosine-protein kinase BTK	{('50798713', 'BDB'), ('18167307', 'CHEMBL')}	4.31	IC50	mouse
+ID_111591	COc1cc(N2CCN(C)CC2)ccc1Nc1ncc(Cl)c(Oc2ccc(N=[N+]=[N-])cc2)n1	P00520	Tyrosine-protein kinase ABL	{('18456185', 'CHEMBL'), ('51106576', 'BDB'), ('51106466', 'BDB'), ('18456219', 'CHEMBL')}	4.85	IC50	mouse
+ID_92463	Cc1cccc(-c2nn3c(c2-c2ccncc2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('51142638', 'BDB'), ('18782719', 'CHEMBL')}	4.68	IC50	mouse
+ID_56069	Cc1cc(-c2c(-c3cccc(C)n3)nn3c2C(C)C(C)(C)C3)ccn1	P00520	Tyrosine-protein kinase ABL	{('51142607', 'BDB'), ('18782720', 'CHEMBL')}	4.6	IC50	mouse
+ID_15462	CCc1cccc(-c2nn3c(c2-c2ccncc2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782724', 'CHEMBL'), ('51142640', 'BDB')}	4.37	IC50	mouse
+ID_52495	Cc1cccc(-c2nn3c(c2-c2ccc(O)cc2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782731', 'CHEMBL'), ('51142643', 'BDB'), ('51142570', 'BDB'), ('51142600', 'BDB'), ('18782732', 'CHEMBL'), ('18782729', 'CHEMBL')}	4.18	IC50	mouse
+ID_138827	CC1c2c(-c3ccncc3)c(-c3ccccc3C#N)nn2CC1(C)C	P00520	Tyrosine-protein kinase ABL	{('18782735', 'CHEMBL'), ('51142586', 'BDB')}	4.96	IC50	mouse
+ID_73885	COCC1c2c(-c3ccncc3)c(-c3cccc(C)n3)nn2CC1(C)C	P00520	Tyrosine-protein kinase ABL	{('18782739', 'CHEMBL'), ('51142652', 'BDB')}	4.6	IC50	mouse
+ID_106850	Cc1cccc(-c2nn3c(c2-c2ccncc2)C(CO)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('51142589', 'BDB'), ('18782740', 'CHEMBL')}	4.03	IC50	mouse
+ID_47811	CC1(C)Cc2c(-c3ccncc3)c(-c3ccccc3C#N)nn2C1	P00520	Tyrosine-protein kinase ABL	{('18782741', 'CHEMBL'), ('51142590', 'BDB')}	4.7	IC50	mouse
+ID_137310	Cc1cccc(-c2nn3c(c2-c2ccncc2)CC(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('51142653', 'BDB'), ('18782744', 'CHEMBL')}	4.59	IC50	mouse
+ID_75842	Cc1cccc(-c2nn3c(c2-c2ccc(O)cc2)CC(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782747', 'CHEMBL'), ('51142594', 'BDB')}	4.7	IC50	mouse
+ID_129615	Cc1cccc(-c2n[nH]cc2-c2ccc3ncccc3n2)n1	P00520	Tyrosine-protein kinase ABL	{('51142565', 'BDB'), ('18782748', 'CHEMBL')}	4.68	IC50	mouse
+ID_120050	FC(F)(F)c1ccc(C2=NN(C(=S)Nc3ccccc3)C(c3ccc4c(c3)OCCO4)C2)cc1	P28028	Serine/threonine-protein kinase B-raf	{('18788639', 'CHEMBL'), ('51143468', 'BDB')}	4.53	IC50	mouse
+ID_75849	CSc1ccc(C2=NN(C(=S)Nc3ccccc3)C(c3ccc4c(c3)OCCO4)C2)cc1	P28028	Serine/threonine-protein kinase B-raf	{('51143469', 'BDB'), ('18788640', 'CHEMBL')}	4.07	IC50	mouse
+ID_112488	O=[N+]([O-])c1ccc(C2=NN(C(=S)Nc3ccccc3)C(c3ccc4c(c3)OCCO4)C2)cc1	P28028	Serine/threonine-protein kinase B-raf	{('18788641', 'CHEMBL'), ('51143470', 'BDB')}	4.24	IC50	mouse
+ID_5776	COc1ccccc1C1=NN(C(=S)Nc2ccccc2)C(c2ccc3c(c2)OCCO3)C1	P28028	Serine/threonine-protein kinase B-raf	{('51143447', 'BDB'), ('18788643', 'CHEMBL')}	4.92	IC50	mouse
+ID_77552	S=C(Nc1ccccc1)N1N=C(c2ccc(Cl)c(Cl)c2)CC1c1ccc2c(c1)OCCO2	P28028	Serine/threonine-protein kinase B-raf	{('51143473', 'BDB'), ('18788646', 'CHEMBL')}	4.51	IC50	mouse
+ID_174771	Cc1ccc(C2=NN(C(=S)Nc3ccccc3)C(c3ccc4c(c3)OCCO4)C2)cc1C	P28028	Serine/threonine-protein kinase B-raf	{('18788647', 'CHEMBL'), ('51143448', 'BDB')}	4.41	IC50	mouse
+ID_164708	S=C(Nc1ccccc1)N1N=C(c2cccs2)CC1c1ccc2c(c1)OCCO2	P28028	Serine/threonine-protein kinase B-raf	{('51143443', 'BDB'), ('18788649', 'CHEMBL')}	4.11	IC50	mouse
+ID_104371	Fc1ccc(C2=NN(C(=S)Nc3ccccc3)C(c3ccc4c(c3)OCCO4)C2)cc1	P28028	Serine/threonine-protein kinase B-raf	{('51143478', 'BDB'), ('18788657', 'CHEMBL')}	4.95	IC50	mouse
+ID_52720	CCNC(=O)OC1CCC2(C)C(CCC3C2CCC2(C)C(C(C)CCC(=O)O)CCC32)C1	Q03145	Ephrin type-A receptor 2	{('22469675', 'CHEMBL')}	4.52	IC50	mouse
+ID_160488	CC(C)NC(=O)OC1CCC2(C)C(CCC3C2CCC2(C)C(C(C)CCC(=O)O)CCC32)C1	Q03145	Ephrin type-A receptor 2	{('22469679', 'CHEMBL')}	4.92	IC50	mouse
+ID_102515	CC(CCC(=O)O)C1CCC2C3CCC4CC(OC(=O)Nc5ccccc5)CCC4(C)C3CCC12C	Q03145	Ephrin type-A receptor 2	{('22469681', 'CHEMBL')}	4.42	IC50	mouse
+ID_73523	CCCCCCCCNC(=O)OC1CCC2(C)C(CCC3C2CCC2(C)C(C(C)CCC(=O)NC(CC(=O)O)Cc4c[nH]c5ccccc45)CCC32)C1	Q03145	Ephrin type-A receptor 2	{('22469687', 'CHEMBL')}	4.82	IC50	mouse
+ID_81852	COc1cccc2c(C(=O)Nc3ccccc3)c(SSc3c(C(=O)Nc4ccccc4)c4cccc(OC)c4n3C)n(C)c12	Q01279	Epidermal growth factor receptor erbB1	{('110221', 'CHEMBL')}		IC50	mouse
+ID_20397	Cn1c(SSc2c(C(=O)Nc3ccccc3)c3ccccc3n2C)c(C(=O)Nc2ccccc2)c2ccccc21	Q01279	Epidermal growth factor receptor erbB1	{('113118', 'CHEMBL')}		IC50	mouse
+ID_119389	CN1C(=S)C(C(=O)Nc2ccccc2)c2ccccc21	Q01279	Epidermal growth factor receptor erbB1	{('119387', 'CHEMBL')}		IC50	mouse
+ID_161986	Cn1c(SSc2c(C(=O)Nc3ccccc3)c3cccnc3n2C)c(C(=O)Nc2ccccc2)c2cccnc21	Q01279	Epidermal growth factor receptor erbB1	{('133319', 'CHEMBL')}		IC50	mouse
+ID_64072	Cn1c([Se][Se]c2c(C(=O)OC(C)(C)C)c3ccccc3n2C)c(C(=O)OC(C)(C)C)c2ccccc21	P05622	Platelet-derived growth factor receptor beta	{('336399', 'CHEMBL'), ('4951', 'BDB')}		IC50	mouse
+ID_153951	O=C(NCc1ccccc1)C(Cc1c([Se]c2[nH]c3ccccc3c2CC(NC(=O)C(F)(F)F)C(=O)NCc2ccccc2)[nH]c2ccccc12)NC(=O)C(F)(F)F	P05622	Platelet-derived growth factor receptor beta	{('337666', 'CHEMBL'), ('4958', 'BDB')}		IC50	mouse
+ID_64965	O=C(NCc1ccccc1)C(Cc1c([Se][Se]c2[nH]c3ccccc3c2CC(NC(=O)C(F)(F)F)C(=O)NCc2ccccc2)[nH]c2ccccc12)NC(=O)C(F)(F)F	P05622	Platelet-derived growth factor receptor beta	{('4959', 'BDB'), ('345344', 'CHEMBL')}		IC50	mouse
+ID_76426	Nc1ncnc2c1nc(N)n2C1OC(COP(=O)(O)OC2C(O)C(CO)OC2n2c(N)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('76015', 'CHEMBL'), ('50812772', 'BDB')}		IC50	mouse
+ID_51114	Nc1ncnc2c1nc(N)n2C1OC(COP(=O)(O)OC2C(O)C(COP(=O)(O)O)OC2n2c(N)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('77084', 'CHEMBL'), ('50812774', 'BDB')}		IC50	mouse
+ID_46957	[N-]=[N+]=Nc1nc2c(N)ncnc2n1C1OC(COP(=O)(O)OC2C(O)C(CO)OC2n2c(N=[N+]=[N-])nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('84705', 'CHEMBL'), ('50812779', 'BDB')}		IC50	mouse
+ID_105133	Nc1ncnc2c1nc(N)n2C1OC(COP(=O)(O)OC2C(O)C(COP(=O)(O)OC3C(O)C(COP(=O)(O)O)OC3n3c(N)nc4c(N)ncnc43)OC2n2c(N)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('101766', 'CHEMBL'), ('50812781', 'BDB')}		IC50	mouse
+ID_129615	Cc1cccc(-c2n[nH]cc2-c2ccc3ncccc3n2)n1	P06240	Tyrosine-protein kinase LCK	{('50277976', 'BDB'), ('1443259', 'CHEMBL')}		IC50	mouse
+ID_30128	COc1cc(OC)cc(C2Cc3cnc(N(CCCOCc4ccccc4)C(C)=O)cc3N=C2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489655', 'CHEMBL'), ('9991', 'BDB')}		IC50	mouse
+ID_144125	COc1cc(OC)cc(C2Cc3cnc(N(CCCCOCc4ccccc4)C(C)=O)cc3N=C2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489759', 'CHEMBL'), ('9992', 'BDB')}		IC50	mouse
+ID_78758	COc1cc(OC)cc(C2Cc3cnc(N(CCCCCOCc4ccccc4)C(C)=O)cc3N=C2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489764', 'CHEMBL'), ('9993', 'BDB')}		IC50	mouse
+ID_171783	COc1cc(OC)cc(C2Cc3cnc(N(CCCO)C(C)=O)cc3N=C2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489769', 'CHEMBL'), ('9994', 'BDB')}		IC50	mouse
+ID_17666	COc1cc(OC)cc(C2Cc3cnc(N(CCCCO)C(C)=O)cc3N=C2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489774', 'CHEMBL'), ('10010', 'BDB')}		IC50	mouse
+ID_168438	COc1cc(OC)cc(C2Cc3cnc(N(CCCCCO)C(C)=O)cc3N=C2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1489779', 'CHEMBL'), ('10011', 'BDB')}		IC50	mouse
+ID_36281	COc1cc(OC)cc(-c2cc3cnc(NCCCO)nc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('10016', 'BDB'), ('1490029', 'CHEMBL')}		IC50	mouse
+ID_90467	CCN(CC)CCCCNc1cc2nc(N)c(-c3cc(OC)cc(OC)c3)cc2cn1	P05622	Platelet-derived growth factor receptor beta	{('1490944', 'CHEMBL'), ('9872', 'BDB')}		IC50	mouse
+ID_51631	COc1cc(OC)cc(-c2cc3cnc(NCCCCCN4CCOCC4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9890', 'BDB'), ('1491080', 'CHEMBL')}		IC50	mouse
+ID_128332	CN1CCN(CCCNc2cc3nc(NCCCN4CCN(C)CC4)c(-c4ccccc4)cc3cn2)CC1	P05622	Platelet-derived growth factor receptor beta	{('9910', 'BDB'), ('1491222', 'CHEMBL')}		IC50	mouse
+ID_87842	COc1cc(OC)cc(-c2cc3cnc(N(CCCOCc4ccccc4)C(C)=O)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491471', 'CHEMBL'), ('9934', 'BDB')}		IC50	mouse
+ID_157292	COc1cc(OC)cc(-c2cc3cnc(N(CCCCOCc4ccccc4)C(C)=O)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491476', 'CHEMBL'), ('9950', 'BDB')}		IC50	mouse
+ID_166185	COc1cc(OC)cc(-c2cc3cnc(N(CCCO)C(C)=O)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491481', 'CHEMBL'), ('9952', 'BDB')}		IC50	mouse
+ID_107550	COc1cc(OC)cc(-c2cc3cnc(N(CCCCO)C(C)=O)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491486', 'CHEMBL'), ('9953', 'BDB')}		IC50	mouse
+ID_96907	COc1cc(OC)cc(-c2cc3cnc(N(CCCCCO)C(C)=O)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491588', 'CHEMBL'), ('9954', 'BDB')}		IC50	mouse
+ID_94242	COc1cc(OC)cc(-c2cc3cnc(NCCCOc4ccccc4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491593', 'CHEMBL')}		IC50	mouse
+ID_145453	COc1cc(OC)cc(-c2cc3cnc(NCCCCOc4ccccc4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491598', 'CHEMBL')}		IC50	mouse
+ID_3956	COc1cc(OC)cc(-c2cc3cnc(NCCCCCOc4ccccc4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1491603', 'CHEMBL')}		IC50	mouse
+ID_2252	COc1cc(OC)cc(-c2cc3cnc(N(CCCCCOCc4ccccc4)C(C)=O)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('1516607', 'CHEMBL'), ('9951', 'BDB')}		IC50	mouse
+ID_135105	Cc1cccc(Nc2nc(-c3c(C)nc4ncccn34)cs2)c1	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('50839297', 'BDB'), ('1735105', 'CHEMBL')}		IC50	mouse
+ID_67799	COc1cc(C=C2C(=O)NN(c3cccc(Cl)c3)C2=O)ccc1O	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('1735149', 'CHEMBL'), ('50839301', 'BDB')}		IC50	mouse
+ID_163379	COc1cccc2cc(C(=O)c3cc4cccc(OC)c4o3)oc12	P05622	Platelet-derived growth factor receptor beta	{('50370678', 'BDB'), ('1874055', 'CHEMBL')}		IC50	mouse
+ID_119943	COc1ccc2cc(C(=O)c3cc4ccc(OC)cc4o3)oc2c1	P05622	Platelet-derived growth factor receptor beta	{('1874056', 'CHEMBL'), ('50370683', 'BDB')}		IC50	mouse
+ID_138461	COc1cccc2oc(C(=O)c3cc4c(OC)cccc4o3)cc12	P05622	Platelet-derived growth factor receptor beta	{('50370703', 'BDB'), ('1874058', 'CHEMBL')}		IC50	mouse
+ID_117295	CCC(C)C1C(C)(O)C(=O)C2(O)CC(C)(O)CC(C)C2C1(C)C(=O)C=CN(c1ccccc1)c1ccc2ccccc2c1	P16054	Protein kinase C epsilon	{('2181219', 'CHEMBL'), ('50159259', 'BDB')}		IC50	mouse
+ID_43459	COC(=O)c1ccc(CSc2ncnc3sc(C)c(C)c23)o1	P42337	PI3-kinase p110-alpha subunit	{('50156917', 'BDB'), ('3016055', 'CHEMBL')}		IC50	mouse
+ID_60019	COc1ccccc1-c1nc(-c2cc3cc(C)ccc3[nH]c2=O)no1	P42337	PI3-kinase p110-alpha subunit	{('50156932', 'BDB'), ('3016056', 'CHEMBL')}		IC50	mouse
+ID_141029	CNC(=O)c1cc(Oc2ccc(NC(=O)c3ccc(CN4CCN(C)CC4)cc3)cc2)ccn1	P00520	Tyrosine-protein kinase ABL	{('3397787', 'CHEMBL'), ('50589675', 'BDB')}		IC50	mouse
+ID_162814	CN1CCN(Cc2ccc(C(=O)Nc3ccc(OCCN4CCOCC4)c4ccccc34)cc2)CC1	P00520	Tyrosine-protein kinase ABL	{('50589676', 'BDB'), ('3397788', 'CHEMBL')}		IC50	mouse
+ID_44299	CCCn1nc(-c2ccccc2)c2nc3ccccc3nc21	Q03137	Ephrin type-A receptor 4	{('82437', 'BDB'), ('82571', 'BDB'), ('3765640', 'CHEMBL')}	4.99	IC50	mouse
+ID_78561	O=C(C=Cc1ccccc1)c1cc(Br)ccc(=O)c1O	Q03137	Ephrin type-A receptor 4	{('3765641', 'CHEMBL'), ('82507', 'BDB'), ('82641', 'BDB')}	4.76	IC50	mouse
+ID_92320	Cc1ccc(S(=O)(=O)C(C#N)=Cc2c(N3CCOCC3)nc3ccccn3c2=O)cc1	Q03137	Ephrin type-A receptor 4	{('3982900', 'CHEMBL'), ('3765642', 'CHEMBL'), ('82616', 'BDB'), ('82482', 'BDB')}		IC50	mouse
+ID_174146	Nc1ccc(Br)c2c1C(=O)c1ccccc1C2=O	Q03137	Ephrin type-A receptor 4	{('82469', 'BDB'), ('3765644', 'CHEMBL'), ('82603', 'BDB')}	4.87	IC50	mouse
+ID_125762	CC1Cc2ccccc2N1Cc1nc(O)c2ccc(C(F)(F)F)cc2n1	Q03137	Ephrin type-A receptor 4	{('3765645', 'CHEMBL'), ('3982903', 'CHEMBL')}		IC50	mouse
+ID_155001	Cc1cc2cc(CNC(=O)c3ccc(S(=O)(=O)N4CCCCC4)cc3)ccc2n1C	Q03137	Ephrin type-A receptor 4	{('82595', 'BDB'), ('3765646', 'CHEMBL'), ('82461', 'BDB')}	4.8	IC50	mouse
+ID_15306	CC(=O)N(c1ccc2oc(=O)sc2c1)S(=O)(=O)c1ccccc1	Q03137	Ephrin type-A receptor 4	{('82590', 'BDB'), ('3765647', 'CHEMBL'), ('3982905', 'CHEMBL'), ('82456', 'BDB')}		IC50	mouse
+ID_1444	Cc1occc1-c1nnc(SCC(=O)Nc2ccccc2-c2ccccc2)n1C	Q03137	Ephrin type-A receptor 4	{('82442', 'BDB'), ('3982908', 'CHEMBL'), ('82576', 'BDB'), ('3765650', 'CHEMBL')}		IC50	mouse
+ID_127946	Cc1ccc(-n2c(C)nc3oc4ccccc4c(=O)c3c2=O)cc1	Q03137	Ephrin type-A receptor 4	{('3765651', 'CHEMBL'), ('82440', 'BDB'), ('3982909', 'CHEMBL'), ('82574', 'BDB')}		IC50	mouse
+ID_147822	Cc1nc(C)c(C(=O)Nc2nc3c(C)cccc3s2)o1	Q03137	Ephrin type-A receptor 4	{('82457', 'BDB'), ('82591', 'BDB'), ('3765652', 'CHEMBL')}	4.95	IC50	mouse
+ID_114709	N#CC(c1nc2ccccc2nc1N1CCCC1)S(=O)(=O)c1cccs1	Q03137	Ephrin type-A receptor 4	{('82441', 'BDB'), ('3982911', 'CHEMBL'), ('82575', 'BDB'), ('3765653', 'CHEMBL')}		IC50	mouse
+ID_42432	C=CCn1c(SCC(=O)Nc2ncc(Cc3cc(C(F)(F)F)ccc3Cl)s2)nnc1-c1ccncc1	Q03137	Ephrin type-A receptor 4	{('82542', 'BDB'), ('3982912', 'CHEMBL'), ('82676', 'BDB'), ('3765654', 'CHEMBL')}		IC50	mouse
+ID_2162	Cc1ccccc1C(=O)c1cccn1CC(=O)NCC1CCCO1	Q03137	Ephrin type-A receptor 4	{('82452', 'BDB'), ('3982913', 'CHEMBL'), ('82586', 'BDB'), ('3765655', 'CHEMBL')}		IC50	mouse
+ID_85690	O=C(O)c1ccccc1C(=O)NNc1ccc(F)cc1	Q03137	Ephrin type-A receptor 4	{('82668', 'BDB'), ('82534', 'BDB'), ('3982914', 'CHEMBL'), ('3765656', 'CHEMBL')}		IC50	mouse
+ID_26135	COc1cc(NC(=O)c2ccc(COCC(F)(F)F)cc2)cc(OC)c1OC	Q03137	Ephrin type-A receptor 4	{('3765657', 'CHEMBL'), ('3982915', 'CHEMBL'), ('82511', 'BDB'), ('82645', 'BDB')}		IC50	mouse
+ID_118316	CCCCCCOC(=O)C(C#N)c1nc2ccccc2nc1N1CCN(CC)CC1	Q03137	Ephrin type-A receptor 4	{('3982917', 'CHEMBL'), ('82567', 'BDB'), ('3765659', 'CHEMBL'), ('82433', 'BDB')}		IC50	mouse
+ID_108378	CCOc1ccc(S(=O)(=O)N(CC(=O)NN=Cc2ccc(-c3ccc([N+](=O)[O-])cc3)o2)c2ccccc2)cc1	Q03137	Ephrin type-A receptor 4	{('82532', 'BDB'), ('82666', 'BDB'), ('3765660', 'CHEMBL')}	4.34	IC50	mouse
+ID_13287	O=C(Nc1cccc2c1CCCC2)c1cc([N+](=O)[O-])ccc1Cl	Q03137	Ephrin type-A receptor 4	{('3765661', 'CHEMBL'), ('82683', 'BDB'), ('3982919', 'CHEMBL'), ('82549', 'BDB')}		IC50	mouse
+ID_4534	Cc1ccc(CNC(=O)CN2CCC(C(N)=O)CC2)cc1	Q03137	Ephrin type-A receptor 4	{('82446', 'BDB'), ('82580', 'BDB'), ('3982920', 'CHEMBL'), ('3765662', 'CHEMBL')}		IC50	mouse
+ID_96731	Cc1cc(C)n(CNc2nc(C(F)(F)F)cs2)n1	Q03137	Ephrin type-A receptor 4	{('82455', 'BDB'), ('3982922', 'CHEMBL'), ('3765664', 'CHEMBL'), ('82589', 'BDB')}		IC50	mouse
+ID_150736	COc1ccc(Cc2nnc(NC(=O)Cc3cccs3)s2)cc1	Q03137	Ephrin type-A receptor 4	{('82421', 'BDB'), ('82555', 'BDB'), ('3765665', 'CHEMBL')}	4.87	IC50	mouse
+ID_12316	CCn1c(COc2ccccc2C)nnc1SCC(=O)Nc1cc(C)on1	Q03137	Ephrin type-A receptor 4	{('3765666', 'CHEMBL'), ('82425', 'BDB'), ('82559', 'BDB'), ('3982924', 'CHEMBL')}		IC50	mouse
+ID_56693	O=S(=O)(c1ccc2nc(-c3ccco3)c(-c3ccco3)nc2c1)N1CCOCC1	Q03137	Ephrin type-A receptor 4	{('82581', 'BDB'), ('3765667', 'CHEMBL'), ('82447', 'BDB')}	4.67	IC50	mouse
+ID_24589	Cc1nn(-c2ccccc2)c2c1C(c1cccnc1)N1C=C(S(=O)(=O)N3CCCCC3)C=CC1=N2	Q03137	Ephrin type-A receptor 4	{('82577', 'BDB'), ('82443', 'BDB'), ('3765668', 'CHEMBL'), ('3982926', 'CHEMBL')}		IC50	mouse
+ID_124109	CCn1c2ccc(Cl)cc2c2nc3ccccc3nc21	Q03137	Ephrin type-A receptor 4	{('82625', 'BDB'), ('3765669', 'CHEMBL'), ('82491', 'BDB')}	4.74	IC50	mouse
+ID_80401	COc1ccc2sc3ccccc3c(=O)c2c1OC	Q03137	Ephrin type-A receptor 4	{('82525', 'BDB'), ('82659', 'BDB'), ('3982929', 'CHEMBL'), ('3765671', 'CHEMBL')}		IC50	mouse
+ID_54722	Cc1cc(C)c2nc(N3CCCN(C(=O)c4ccco4)CC3)c(C#N)cc2c1	Q03137	Ephrin type-A receptor 4	{('3765672', 'CHEMBL'), ('82554', 'BDB'), ('82420', 'BDB')}	4.78	IC50	mouse
+ID_62741	COc1cccc(C2(CSc3nnc(-c4cc(OC)c(OC)c(OC)c4)o3)OCCO2)c1	Q03137	Ephrin type-A receptor 4	{('82524', 'BDB'), ('3982931', 'CHEMBL'), ('3765673', 'CHEMBL'), ('82658', 'BDB')}		IC50	mouse
+ID_36528	CSc1nc(NCCOCCO)c2sc3nc(-c4ccco4)c4c(c3c2n1)CCC4	Q03137	Ephrin type-A receptor 4	{('3765674', 'CHEMBL'), ('82572', 'BDB'), ('3982932', 'CHEMBL'), ('82438', 'BDB')}		IC50	mouse
+ID_72176	CSc1ccccc1N=Cc1nc(-c2ccccc2)oc1O	Q03137	Ephrin type-A receptor 4	{('82600', 'BDB'), ('3765675', 'CHEMBL'), ('82466', 'BDB')}	4.42	IC50	mouse
+ID_11131	Fc1ccc(-c2cc3nc4c(c(N5CCOCC5)n3n2)CCCC4)cc1	Q03137	Ephrin type-A receptor 4	{('3765677', 'CHEMBL'), ('3982935', 'CHEMBL'), ('82422', 'BDB'), ('82556', 'BDB')}		IC50	mouse
+ID_101669	FC(F)(F)c1nnc2c(Sc3ccccn3)nc3ccccc3n12	Q03137	Ephrin type-A receptor 4	{('82537', 'BDB'), ('3765678', 'CHEMBL'), ('82671', 'BDB'), ('3982936', 'CHEMBL')}		IC50	mouse
+ID_142938	CCOP(=O)(OCC)C1(NS(=O)(=O)c2ccccc2)C=C(Br)C(=O)c2ccccc21	Q03137	Ephrin type-A receptor 4	{('82623', 'BDB'), ('82489', 'BDB'), ('3765679', 'CHEMBL')}	4.59	IC50	mouse
+ID_31288	Cc1cc2ccccc2n1CCNC(=O)c1ccccc1	Q03137	Ephrin type-A receptor 4	{('82587', 'BDB'), ('82453', 'BDB'), ('3765680', 'CHEMBL')}	4.49	IC50	mouse
+ID_167035	CCC(C)COC(=O)C(C#N)c1nc2ccccc2nc1N1CCCCC1	Q03137	Ephrin type-A receptor 4	{('82568', 'BDB'), ('82434', 'BDB'), ('3765681', 'CHEMBL')}	4.76	IC50	mouse
+ID_46222	CCN(CCO)c1nc(SC)nc2c1sc1nc(-c3ccco3)c3c(c12)CCC3	Q03137	Ephrin type-A receptor 4	{('82487', 'BDB'), ('3765682', 'CHEMBL'), ('82621', 'BDB')}	4.62	IC50	mouse
+ID_115401	O=C(NCCc1ccccc1)c1ccc2nc(-c3ccco3)c(-c3ccco3)nc2c1	Q03137	Ephrin type-A receptor 4	{('3765683', 'CHEMBL'), ('82479', 'BDB'), ('82613', 'BDB')}	4.67	IC50	mouse
+ID_95441	O=C(Nc1cccc2ccccc12)C(=Cc1ccc([N+](=O)[O-])cc1)NC(=O)c1ccccc1	Q03137	Ephrin type-A receptor 4	{('82515', 'BDB'), ('3765686', 'CHEMBL'), ('82649', 'BDB')}	4.94	IC50	mouse
+ID_86417	CCOC(=O)c1c(N=C(S)Nc2ccccc2)sc2c1CCN(CCc1ccccc1)C2	Q03137	Ephrin type-A receptor 4	{('3765688', 'CHEMBL')}		IC50	mouse
+ID_125734	Cc1ccc(C)c(N(CC(=O)NN=Cc2ccc(-c3ccc([N+](=O)[O-])cc3)o2)S(=O)(=O)c2ccccc2)c1	Q03137	Ephrin type-A receptor 4	{('3982948', 'CHEMBL'), ('82538', 'BDB'), ('3765690', 'CHEMBL'), ('82672', 'BDB')}		IC50	mouse
+ID_73932	O=C(c1ccc2c(=O)n(Cc3ccc4c(c3)OCO4)c(=S)[nH]c2c1)N1CCCCC1	Q03137	Ephrin type-A receptor 4	{('82449', 'BDB'), ('3765695', 'CHEMBL'), ('82583', 'BDB'), ('3982953', 'CHEMBL')}		IC50	mouse
+ID_96427	O=[N+]([O-])c1ccc(N(c2ccccc2)c2ccccc2)cc1	Q03137	Ephrin type-A receptor 4	{('82546', 'BDB'), ('82680', 'BDB'), ('3765696', 'CHEMBL')}	4.97	IC50	mouse
+ID_99261	COc1ccccc1N1CSC2=C(C#N)C(c3ccc(SC)cc3)CC(=O)N2C1	Q03137	Ephrin type-A receptor 4	{('3765698', 'CHEMBL'), ('82593', 'BDB'), ('82459', 'BDB')}	4.67	IC50	mouse
+ID_51011	CCCCOP(=O)(OCCCC)C(C#N)=C(C)O	Q03137	Ephrin type-A receptor 4	{('3765700', 'CHEMBL'), ('3982958', 'CHEMBL')}		IC50	mouse
+ID_148778	O=C1C(=Cc2nc3ccccc3[nH]2)SC(=S)N1c1ccc(F)cc1	Q03137	Ephrin type-A receptor 4	{('82648', 'BDB'), ('3765701', 'CHEMBL'), ('82514', 'BDB'), ('3982959', 'CHEMBL')}		IC50	mouse
+ID_99821	N#Cc1sc2nc(-c3cccs3)cc(-c3ccccc3)c2c1N	Q03137	Ephrin type-A receptor 4	{('3982960', 'CHEMBL'), ('82667', 'BDB'), ('3765702', 'CHEMBL'), ('82533', 'BDB')}		IC50	mouse
+ID_174642	CCCOc1ccc(-c2nn(-c3ccccc3)cc2C=C2SC(=S)N(C3CCS(=O)(=O)C3)C2=O)cc1	Q03137	Ephrin type-A receptor 4	{('82497', 'BDB'), ('3765704', 'CHEMBL'), ('82631', 'BDB')}	4.92	IC50	mouse
+ID_126597	CC(=O)OC1(c2ccc(C)cc2)CN2CCC1c1ccccc12	Q03137	Ephrin type-A receptor 4	{('82563', 'BDB'), ('3982963', 'CHEMBL'), ('82429', 'BDB'), ('3765705', 'CHEMBL')}		IC50	mouse
+ID_167962	CC(=O)Nc1ccc(NC2=Nc3ccccc3N3C2=Nc2c(c(C)nn2-c2ccccc2)C3c2ccccc2)cc1	Q03137	Ephrin type-A receptor 4	{('82619', 'BDB'), ('82485', 'BDB'), ('3765709', 'CHEMBL')}	4.78	IC50	mouse
+ID_156924	COC(=O)Sc1nnc(-c2ccc(Br)cc2)o1	Q03137	Ephrin type-A receptor 4	{('82450', 'BDB'), ('3765710', 'CHEMBL'), ('82584', 'BDB')}	4.89	IC50	mouse
+ID_162002	CCOC(=O)C1=C(C)N=c2sc(=Cc3ccco3)c(=O)n2C1c1cccc(OC)c1	Q03137	Ephrin type-A receptor 4	{('82462', 'BDB'), ('82596', 'BDB'), ('3765711', 'CHEMBL'), ('3982969', 'CHEMBL')}		IC50	mouse
+ID_76728	Cn1cc([N+](=O)[O-])c(C(=O)Nc2ccc3c(c2)OCCO3)n1	Q03137	Ephrin type-A receptor 4	{('3982972', 'CHEMBL'), ('3765714', 'CHEMBL'), ('82656', 'BDB'), ('82522', 'BDB')}		IC50	mouse
+ID_82705	Cc1c(NC(=S)NN=Cc2cccc(O)c2)c(=O)n(-c2ccccc2)n1C	Q03137	Ephrin type-A receptor 4	{('82535', 'BDB'), ('3765715', 'CHEMBL'), ('82669', 'BDB')}	4.4	IC50	mouse
+ID_26066	Cn1c(=O)[nH]c(=O)c2c1nc1n2CCN1Cc1ccccc1	Q03137	Ephrin type-A receptor 4	{('3765716', 'CHEMBL'), ('3982974', 'CHEMBL'), ('82518', 'BDB'), ('82652', 'BDB')}		IC50	mouse
+ID_17082	CCc1cccc2c(C(=O)CSc3nnc(-c4ccoc4C)n3C)c[nH]c12	Q03137	Ephrin type-A receptor 4	{('82499', 'BDB'), ('3765718', 'CHEMBL'), ('82633', 'BDB')}	4.9	IC50	mouse
+ID_146233	CCn1c(O)c(C=NN=Cc2ccccc2)c2ccc(C3=NNC(=O)CC3)cc21	Q03137	Ephrin type-A receptor 4	{('3765720', 'CHEMBL'), ('3982978', 'CHEMBL')}		IC50	mouse
+ID_28574	Cc1ccc2cc(C=C(C#N)C#N)c(N3CCCCC3)nc2c1	Q03137	Ephrin type-A receptor 4	{('82664', 'BDB'), ('82530', 'BDB'), ('3765722', 'CHEMBL')}	4.61	IC50	mouse
+ID_147408	O=[N+]([O-])c1ccc(N2N=C(c3ccco3)CC2c2ccccc2)cc1	Q03137	Ephrin type-A receptor 4	{('82510', 'BDB'), ('3765724', 'CHEMBL'), ('82644', 'BDB'), ('3982982', 'CHEMBL')}		IC50	mouse
+ID_125046	CCN1C(=Cc2ccc3cccc(C)c3[n+]2CC)Sc2ccccc21	Q03137	Ephrin type-A receptor 4	{('82662', 'BDB'), ('3765725', 'CHEMBL'), ('82528', 'BDB')}	4.36	IC50	mouse
+ID_21120	CCSC1=NC(=Cc2ccc(-c3ccccc3[N+](=O)[O-])o2)C(=O)S1	Q03137	Ephrin type-A receptor 4	{('3765726', 'CHEMBL'), ('3982984', 'CHEMBL'), ('82543', 'BDB'), ('82677', 'BDB')}		IC50	mouse
+ID_128756	Cc1c(NC(=O)CCN2C(=O)c3ccccc3C2=O)c(=O)n(-c2ccccc2)n1C	Q03137	Ephrin type-A receptor 4	{('3765727', 'CHEMBL'), ('82598', 'BDB'), ('3982985', 'CHEMBL'), ('82464', 'BDB')}		IC50	mouse
+ID_8632	C=CCn1c(=C(C#N)c2nc3ccccc3n2C)sc(=Cc2cc(OC)c(OC)c(OC)c2)c1=O	Q03137	Ephrin type-A receptor 4	{('82444', 'BDB'), ('3982988', 'CHEMBL'), ('82578', 'BDB'), ('3765730', 'CHEMBL')}		IC50	mouse
+ID_50984	COC(=O)CSc1nc(-c2ccccc2)cc(-c2ccco2)c1C#N	Q03137	Ephrin type-A receptor 4	{('3982990', 'CHEMBL'), ('82427', 'BDB'), ('82561', 'BDB'), ('3765732', 'CHEMBL')}		IC50	mouse
+ID_11879	CCN(CCNC(=O)C1CCCN(S(=O)(=O)CC)C1)c1ccccc1	Q03137	Ephrin type-A receptor 4	{('3765735', 'CHEMBL'), ('82458', 'BDB'), ('82592', 'BDB'), ('3982993', 'CHEMBL')}		IC50	mouse
+ID_76707	CCn1c(SCc2nc(-c3ccccc3)no2)nnc1-c1cccs1	Q03137	Ephrin type-A receptor 4	{('82606', 'BDB'), ('3982994', 'CHEMBL'), ('82472', 'BDB'), ('3765736', 'CHEMBL')}		IC50	mouse
+ID_70707	CCOC(=O)c1cc(OC(=O)c2ccccc2OC)n(-c2ccccc2)n1	Q03137	Ephrin type-A receptor 4	{('3765738', 'CHEMBL'), ('82605', 'BDB'), ('82471', 'BDB')}	4.71	IC50	mouse
+ID_26605	CCOC(=O)N1CCN(C(=O)CSc2nnc(-c3c[nH]c4ccccc34)n2CCOC)CC1	Q03137	Ephrin type-A receptor 4	{('3982998', 'CHEMBL'), ('3765740', 'CHEMBL'), ('82585', 'BDB'), ('82451', 'BDB')}		IC50	mouse
+ID_153172	COc1ccc(OC)c(NC(=O)CSc2nc3ccccc3cc2Cc2ccccc2)c1	Q03137	Ephrin type-A receptor 4	{('3982999', 'CHEMBL'), ('82665', 'BDB'), ('82531', 'BDB'), ('3765741', 'CHEMBL')}		IC50	mouse
+ID_15717	COc1ccc2oc(C=CN(C)C)c(C(=O)c3ccc(Cl)cc3)c2c1	Q03137	Ephrin type-A receptor 4	{('82681', 'BDB'), ('82547', 'BDB'), ('3765742', 'CHEMBL')}	4.35	IC50	mouse
+ID_39753	Oc1ccc(-c2cn3c(n2)SCC3)cc1O	Q03137	Ephrin type-A receptor 4	{('3765743', 'CHEMBL'), ('82504', 'BDB'), ('82638', 'BDB')}	4.37	IC50	mouse
+ID_35944	O=C(O)c1ccc(CN(c2ccccn2)S(=O)(=O)c2ccccc2)cc1	Q03137	Ephrin type-A receptor 4	{('3765745', 'CHEMBL'), ('82467', 'BDB'), ('3983003', 'CHEMBL'), ('82601', 'BDB')}		IC50	mouse
+ID_28332	Brc1ccc(-c2nnc(-c3cccc(Br)c3)o2)cc1	Q03137	Ephrin type-A receptor 4	{('3765748', 'CHEMBL'), ('82490', 'BDB'), ('3983006', 'CHEMBL'), ('82624', 'BDB')}		IC50	mouse
+ID_96218	COc1ccc(C(c2nnnn2Cc2cccs2)N2CCN(c3ccccc3F)CC2)cc1	Q03137	Ephrin type-A receptor 4	{('82423', 'BDB'), ('82557', 'BDB'), ('3983007', 'CHEMBL'), ('3765749', 'CHEMBL')}		IC50	mouse
+ID_171189	CCN(CCCNC(=O)CN(C)S(=O)(=O)c1cccc2nsnc12)c1cccc(C)c1	Q03137	Ephrin type-A receptor 4	{('82454', 'BDB'), ('82588', 'BDB'), ('3765751', 'CHEMBL'), ('3983009', 'CHEMBL')}		IC50	mouse
+ID_154797	COc1ccc(-c2c(Sc3cccc(C(F)(F)F)c3)c3ccc(OC)cc3[s+]2[O-])cc1	Q03137	Ephrin type-A receptor 4	{('3765752', 'CHEMBL'), ('82604', 'BDB'), ('82470', 'BDB')}	4.56	IC50	mouse
+ID_106573	CS(=O)(=O)N(CC(=O)Nc1cccc(Cl)c1)c1ccccc1Cl	Q03137	Ephrin type-A receptor 4	{('82608', 'BDB'), ('82474', 'BDB'), ('3765753', 'CHEMBL'), ('3983011', 'CHEMBL')}		IC50	mouse
+ID_81671	COc1ccc(C(=O)CN2CCOCC2)cc1F	Q03137	Ephrin type-A receptor 4	{('3983012', 'CHEMBL'), ('82426', 'BDB'), ('82560', 'BDB'), ('3765754', 'CHEMBL')}		IC50	mouse
+ID_135434	O=C1CCCC2=C1C(c1ccco1)Nc1ccc3ccccc3c12	Q03137	Ephrin type-A receptor 4	{('3765756', 'CHEMBL'), ('82599', 'BDB'), ('82465', 'BDB')}	4.93	IC50	mouse
+ID_159109	CCCCn1nc(-c2ccccc2)c2nc3ccccc3nc21	Q03137	Ephrin type-A receptor 4	{('82617', 'BDB'), ('3765757', 'CHEMBL'), ('82483', 'BDB')}	4.88	IC50	mouse
+ID_76928	Cc1ccc(C)c(OCc2nnc(N)s2)c1	Q03137	Ephrin type-A receptor 4	{('3765758', 'CHEMBL'), ('3983016', 'CHEMBL'), ('82651', 'BDB'), ('82517', 'BDB')}		IC50	mouse
+ID_170647	CN(C)c1ccc(C=CC(=O)c2cccc(Br)c2)cc1	Q03137	Ephrin type-A receptor 4	{('82673', 'BDB'), ('3765759', 'CHEMBL'), ('82539', 'BDB'), ('3983017', 'CHEMBL')}		IC50	mouse
+ID_62641	Oc1c(N=Nc2ccccn2)ccc2ccccc12	Q03137	Ephrin type-A receptor 4	{('82679', 'BDB'), ('82545', 'BDB'), ('3765760', 'CHEMBL')}	4.86	IC50	mouse
+ID_160479	CCN(CC)C(=O)CSc1nc2cc(OC)c(OC)cc2c(=O)n1Cc1ccc(Cl)cc1	Q03137	Ephrin type-A receptor 4	{('82612', 'BDB'), ('3765762', 'CHEMBL'), ('3983020', 'CHEMBL'), ('82478', 'BDB')}		IC50	mouse
+ID_14656	COc1ccc(NC2=Nc3ccccc3N3C2=Nc2c(c(C)nn2-c2ccc(C)cc2)C3c2cccnc2)cc1	Q03137	Ephrin type-A receptor 4	{('82618', 'BDB'), ('3765763', 'CHEMBL'), ('82484', 'BDB')}	4.98	IC50	mouse
+ID_81436	COc1ccc(-n2c(NC(=O)c3ccc(Br)o3)c(C#N)c3nc4ccccc4nc32)cc1	Q03137	Ephrin type-A receptor 4	{('3983022', 'CHEMBL'), ('82516', 'BDB'), ('82650', 'BDB'), ('3765764', 'CHEMBL')}		IC50	mouse
+ID_157435	O=C(NCc1ccccc1)c1ccc2nc(-c3ccco3)c(-c3ccco3)nc2c1	Q03137	Ephrin type-A receptor 4	{('3765765', 'CHEMBL'), ('82480', 'BDB'), ('82614', 'BDB')}	4.95	IC50	mouse
+ID_49068	CC(C)CC(C(=O)Nc1oc(-c2ccco2)c(-c2ccco2)c1C#N)N1C(=O)c2ccccc2C1=O	Q03137	Ephrin type-A receptor 4	{('82445', 'BDB'), ('82579', 'BDB'), ('3765767', 'CHEMBL'), ('3983025', 'CHEMBL')}		IC50	mouse
+ID_150335	O=C(CCN1C(=O)C(=CC=Cc2ccccc2)SC1=S)Nc1nccs1	Q03137	Ephrin type-A receptor 4	{('82686', 'BDB'), ('82552', 'BDB'), ('3983026', 'CHEMBL'), ('3765768', 'CHEMBL')}		IC50	mouse
+ID_174830	CCCSC1=NC(=CC=Cc2ccco2)C(=O)S1	Q03137	Ephrin type-A receptor 4	{('3765770', 'CHEMBL'), ('82463', 'BDB'), ('82597', 'BDB')}	4.92	IC50	mouse
+ID_92614	CCN(CC)CCCN(Cc1cc2cc3c(cc2nc1O)OCCO3)C(=O)Nc1ccccc1	Q03137	Ephrin type-A receptor 4	{('3765771', 'CHEMBL')}		IC50	mouse
+ID_174639	COc1ccc(N(C(=O)c2ccco2)S(=O)(=O)c2cc(Cl)c(Cl)cc2Cl)cc1	Q03137	Ephrin type-A receptor 4	{('82477', 'BDB'), ('3983030', 'CHEMBL'), ('3765772', 'CHEMBL'), ('82611', 'BDB')}		IC50	mouse
+ID_168750	CC(=CC(=O)c1ccccc1)NNc1nc2ccccc2s1	Q03137	Ephrin type-A receptor 4	{('3766547', 'CHEMBL'), ('3982943', 'CHEMBL')}		IC50	mouse
+ID_31350	COc1cccc(F)c1-c1cccc2nc(N)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035094', 'CHEMBL')}		IC50	mouse
+ID_138413	COc1cccc(F)c1-c1cccc2nc(Nc3ccccc3)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035095', 'CHEMBL')}		IC50	mouse
+ID_88081	COc1cccc(F)c1-c1cccc2nc(NC3CCCCC3)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035096', 'CHEMBL')}		IC50	mouse
+ID_62867	COc1cccc(F)c1-c1cccc2nc(NC3CCOCC3)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035097', 'CHEMBL')}		IC50	mouse
+ID_48613	COc1cccc(Nc2nc3cccc(-c4c(F)cccc4OC)c3o2)n1	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035098', 'CHEMBL')}		IC50	mouse
+ID_122211	CCOc1cccc(Nc2nc3cccc(-c4c(F)cccc4OC)c3o2)c1	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035099', 'CHEMBL')}		IC50	mouse
+ID_18990	COc1ccc(Nc2nc3cccc(-c4c(F)cccc4OC)c3o2)cc1	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035100', 'CHEMBL')}		IC50	mouse
+ID_170069	COc1cccc(F)c1-c1cccc2nc(Nc3cccc(S(N)(=O)=O)c3)oc12	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035101', 'CHEMBL')}		IC50	mouse
+ID_52758	COc1ccc(Nc2nc3cccc(-c4c(F)cccc4OC)c3o2)cc1N	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035102', 'CHEMBL')}		IC50	mouse
+ID_13002	COc1cc(Nc2nc3cccc(-c4ccccc4OC(F)(F)F)c3o2)cc(OC)c1OC	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035103', 'CHEMBL')}		IC50	mouse
+ID_101567	COc1cc(Nc2nc3cccc(-c4c(F)cccc4OC(C)C)c3o2)cc(OC)c1OC	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035104', 'CHEMBL')}		IC50	mouse
+ID_92804	COc1cc(Nc2nc3cccc(-c4c(OC)cccc4OC)c3o2)cc(OC)c1OC	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035105', 'CHEMBL')}		IC50	mouse
+ID_90544	COc1cc(Nc2nc3cccc(-c4ccccc4-c4cn[nH]c4)c3o2)cc(OC)c1OC	Q9WUT3	Ribosomal protein S6 kinase alpha-2	{('15035106', 'CHEMBL')}		IC50	mouse
+ID_32345	Cn1cc(-c2cccc(N3CCc4c(nc5n4CCCC5)C3=O)c2CO)cc(Nc2ccncn2)c1=O	P35991	Tyrosine-protein kinase BTK	{('18167308', 'CHEMBL'), ('50798714', 'BDB')}		IC50	mouse
+ID_148590	CCOC(=O)c1ccc(-c2c(-c3cccc(C)n3)nn3c2C(C)C(C)(C)C3)cc1	P00520	Tyrosine-protein kinase ABL	{('51142639', 'BDB'), ('18782721', 'CHEMBL')}		IC50	mouse
+ID_173671	Cc1cccc(-c2nn3c(c2-c2ccnc(Cl)c2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782722', 'CHEMBL'), ('51142599', 'BDB')}		IC50	mouse
+ID_1048	CCc1cccc(-c2nn3c(c2-c2ccnc(Cl)c2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782725', 'CHEMBL'), ('51142641', 'BDB')}		IC50	mouse
+ID_149483	COc1ccc(-c2c(-c3cccc(C)n3)nn3c2C(C)C(C)(C)C3)cc1	P00520	Tyrosine-protein kinase ABL	{('18782727', 'CHEMBL'), ('51142655', 'BDB')}		IC50	mouse
+ID_68753	CCc1cccc(-c2nn3c(c2-c2ccc(OC)cc2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782728', 'CHEMBL'), ('51142642', 'BDB')}		IC50	mouse
+ID_96350	CCc1cccc(-c2nn3c(c2-c2ccc(O)cc2)C(C)C(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('51142644', 'BDB'), ('18782734', 'CHEMBL'), ('51142645', 'BDB'), ('51142584', 'BDB'), ('18782733', 'CHEMBL'), ('18782730', 'CHEMBL')}		IC50	mouse
+ID_145551	CC1c2c(-c3ccc(O)cc3)c(-c3ccccc3C#N)nn2CC1(C)C	P00520	Tyrosine-protein kinase ABL	{('18782736', 'CHEMBL'), ('51142646', 'BDB')}		IC50	mouse
+ID_41799	Cc1cccc(-c2nn3c(c2-c2ccc(O)cc2)C(C)C(C)(C)C3)c1C#N	P00520	Tyrosine-protein kinase ABL	{('18782738', 'CHEMBL'), ('51142585', 'BDB')}		IC50	mouse
+ID_63724	CC1(C)Cc2c(-c3ccncc3)c(-c3ccccn3)nn2C1	P00520	Tyrosine-protein kinase ABL	{('51142587', 'BDB'), ('18782742', 'CHEMBL')}		IC50	mouse
+ID_112918	CC1(C)Cc2c(-c3ccc(O)cc3)c(-c3ccccn3)nn2C1	P00520	Tyrosine-protein kinase ABL	{('18782743', 'CHEMBL'), ('51142591', 'BDB')}		IC50	mouse
+ID_83725	Cc1cccc(-c2nn3c(c2-c2ccnc(Cl)c2)CC(C)(C)C3)n1	P00520	Tyrosine-protein kinase ABL	{('18782745', 'CHEMBL'), ('51142592', 'BDB')}		IC50	mouse
+ID_108319	S=C(Nc1ccccc1)N1N=C(c2ccccc2Br)CC1c1ccc2c(c1)OCCO2	P28028	Serine/threonine-protein kinase B-raf	{('51143471', 'BDB'), ('18788642', 'CHEMBL')}		IC50	mouse
+ID_153465	S=C(Nc1ccccc1)N1N=C(c2cccc(Cl)c2)CC1c1ccc2c(c1)OCCO2	P28028	Serine/threonine-protein kinase B-raf	{('18788644', 'CHEMBL'), ('51143454', 'BDB')}		IC50	mouse
+ID_89574	Cc1nc2cc3nc(-c4cccs4)cnc3cc2n1C	P05480	Tyrosine-protein kinase SRC	{('51248461', 'BDB'), ('18996671', 'CHEMBL')}		IC50	mouse
+ID_143788	COc1ccc(O)c(-c2cc(-c3ccccc3Cl)n[nH]2)c1	Q61214	Dual-specificity tyrosine-phosphorylation regulated kinase 1A	{('50839300', 'BDB')}	4.7	IC50	mouse
+ID_89383	CCOC(=O)c1cc2cc3c(cc2nc1NC(=O)NC1CCCCC1)OCO3	Q9Z1B7		{('51179948', 'BDB')}	4.85	IC50	mouse
+ID_74615	COc1cc2nc(C)[nH]c2cc1C(=O)c1ccc(Nc2ccc(F)cc2F)nc1	P47811	MAP kinase p38 alpha	{('50741790', 'BDB')}	4.68	IC50	mouse
+ID_8506	CC(C)(N)C#Cc1ccc(Cl)c(C(=O)c2ccc(Nc3ccc(F)cc3F)nc2)c1	P47811	MAP kinase p38 alpha	{('50741791', 'BDB')}	4.72	IC50	mouse
+ID_160431	O=C(c1ccc(Nc2ccc(F)cc2F)cc1)c1ccccc1Cl	P47811	MAP kinase p38 alpha	{('50741796', 'BDB')}	4.96	IC50	mouse
+ID_47592	O=C(c1ccc(Nc2ccc(F)cc2F)nc1)c1cc(Br)ccc1Cl	P47811	MAP kinase p38 alpha	{('50741797', 'BDB')}	3.52	IC50	mouse
+ID_35992	COc1ccccc1C(=O)c1ccc(Nc2ccc(F)cc2F)cc1	P47811	MAP kinase p38 alpha	{('50741799', 'BDB')}	4.42	IC50	mouse
+ID_13844	COc1ccc(C#CC(C)(C)O)cc1C(=O)c1ccc(Nc2ccc(F)cc2F)nc1	P47811	MAP kinase p38 alpha	{('50741800', 'BDB')}	4.27	IC50	mouse
+ID_21823	COc1ccc(CCC(C)(C)O)cc1C(=O)c1ccc(Nc2ccc(F)cc2F)nc1	P47811	MAP kinase p38 alpha	{('50741801', 'BDB')}	3.32	IC50	mouse
+ID_63972	COc1ccc(C#CC(C)(C)N)cc1C(=O)c1ccc(Nc2ccc(F)cc2F)cc1	P47811	MAP kinase p38 alpha	{('50741806', 'BDB')}	4.85	IC50	mouse
+ID_65074	COc1ccc(CCC2(O)CCN(C)CC2)cc1C(=O)c1ccc(Nc2ccc(F)cc2F)cc1	P47811	MAP kinase p38 alpha	{('50741815', 'BDB')}	4.29	IC50	mouse
+ID_71609	O=C(c1ccc(Nc2ccc(F)cc2F)nc1)c1ccccc1Cl	P47811	MAP kinase p38 alpha	{('50741816', 'BDB')}	4.0	IC50	mouse
+ID_156392	CC(C)(N)CCc1ccc(Cl)c(C(=O)c2ccc(Nc3ccc(F)cc3F)nc2)c1	P47811	MAP kinase p38 alpha	{('50741819', 'BDB')}	3.8	IC50	mouse
+ID_34650	COc1ccc(CCC(C)(C)N)cc1C(=O)c1ccc(Nc2ccc(F)cc2F)cc1	P47811	MAP kinase p38 alpha	{('50741821', 'BDB')}	3.95	IC50	mouse
+ID_98061	COc1ccc(Cn2ccc3c(Nc4cc(-c5ncccc5F)ncc4C(C)C)ccnc32)cc1	P36898		{('534300', 'BDB')}	4.82	IC50	mouse
+ID_62400	COc1ccc(Cn2ccc3c(Nc4cc(-c5ncccc5F)ncc4C(C)C)ncnc32)cc1	P36898		{('534306', 'BDB')}	4.87	IC50	mouse
+ID_136330	S=C(Nc1ccccc1)N1N=C(c2ccc(Cl)cc2)CC1c1ccc2c(c1)OCCO2	P28028	Serine/threonine-protein kinase B-raf	{('51143446', 'BDB')}	3.87	IC50	mouse
+ID_142298	O=C(NCCCc1ccccc1)c1ccc(NCc2cc(O)ccc2O)cc1	Q01279	Epidermal growth factor receptor erbB1	{('50185620', 'BDB')}	4.48	IC50	mouse
+ID_158611	O=C(NCCc1ccccc1)c1cccc(NCc2cc(O)ccc2O)c1	Q01279	Epidermal growth factor receptor erbB1	{('50185630', 'BDB')}	3.3	IC50	mouse
+ID_169561	O=C(NCCc1ccccn1)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185639', 'BDB')}	4.82	IC50	mouse
+ID_76840	O=C(NCCc1ccc(Br)cc1)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185643', 'BDB')}	4.46	IC50	mouse
+ID_115174	CCCCCCNC(=O)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185646', 'BDB')}	4.85	IC50	mouse
+ID_33326	O=C(NCCc1ccc(Cl)cc1)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185652', 'BDB')}	4.34	IC50	mouse
+ID_133512	O=C(NCCc1ccc(O)cc1)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185663', 'BDB')}	3.52	IC50	mouse
+ID_53446	CCCCCCCCCCCCNC(=O)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185667', 'BDB')}	4.46	IC50	mouse
+ID_16883	CCN(CC)CCCN(Cc1cc2cc3c(cc2[nH]c1=O)OCCO3)C(=O)Nc1ccccc1	Q03137	Ephrin type-A receptor 4	{('82424', 'BDB'), ('82558', 'BDB')}	4.88	IC50	mouse
+ID_130101	CCOC(=O)c1c(NC(=S)Nc2ccccc2)sc2c1CCN(CCc1ccccc1)C2	Q03137	Ephrin type-A receptor 4	{('82553', 'BDB'), ('82687', 'BDB')}	4.83	IC50	mouse
+ID_82535	CCC(C)C(NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(CCC(=O)O)NC(=O)C(CC(N)=O)NC(=O)C(N)CO)C(=O)NC(CCC(N)=O)C(=O)N1CCCC1C(=O)NC(CCCN=C(N)N)C(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(CCC(N)=O)C(=O)NC(Cc1cnc[nH]1)C(=O)O	P54763	Ephrin type-B receptor 2	{('50401982', 'BDB')}	4.82	IC50	mouse
+ID_73139	CCc1ccc(C=C2C(=O)Nc3ccccc32)o1	P35969	Vascular endothelial growth factor receptor 1	{('50112232', 'BDB')}	4.39	IC50	mouse
+ID_103681	Cn1cccc1C=C1C(=O)Nc2ccccc21	P35969	Vascular endothelial growth factor receptor 1	{('50112247', 'BDB')}	4.69	IC50	mouse
+ID_69680	CN(C)c1ccc(C=C2C(=O)N(C)c3ccccc32)cc1	P35969	Vascular endothelial growth factor receptor 1	{('50112347', 'BDB')}	4.65	IC50	mouse
+ID_83078	Cc1cccc2c1C(=Cc1ccc[nH]1)C(=O)N2	P35969	Vascular endothelial growth factor receptor 1	{('50112392', 'BDB')}	4.51	IC50	mouse
+ID_72520	COc1c(Br)cc(C=C2C(=O)Nc3ccccc32)cc1C(C)(C)C	P35969	Vascular endothelial growth factor receptor 1	{('50112424', 'BDB')}	4.33	IC50	mouse
+ID_90027	Cc1ccc(C=C2C(=O)Nc3ccccc32)o1	P35969	Vascular endothelial growth factor receptor 1	{('50112456', 'BDB')}	4.13	IC50	mouse
+ID_153214	O=C1Nc2ccccc2C1=Cc1sccc1Br	P35969	Vascular endothelial growth factor receptor 1	{('50112462', 'BDB')}	4.81	IC50	mouse
+ID_15738	COc1ccc(Cc2nc(NC3=NC(=O)N(C)C3=O)n(C)c2Cc2ccc(O)cc2)cc1	P15208	Insulin receptor	{('50054193', 'BDB')}	3.62	IC50	mouse
+ID_83078	Cc1cccc2c1C(=Cc1ccc[nH]1)C(=O)N2	P35918	Vascular endothelial growth factor receptor 2	{('50078017', 'BDB')}	4.51	IC50	mouse
+ID_103681	Cn1cccc1C=C1C(=O)Nc2ccccc21	P35918	Vascular endothelial growth factor receptor 2	{('50078018', 'BDB')}	4.69	IC50	mouse
+ID_64117	O=C1Nc2ccccc2C1=Cc1ccc(C(O)O)cc1	P35918	Vascular endothelial growth factor receptor 2	{('50078020', 'BDB')}	3.0	IC50	mouse
+ID_2375	O=C1Nc2ccccc2C1=Cc1ccco1	P35918	Vascular endothelial growth factor receptor 2	{('50078024', 'BDB')}	3.0	IC50	mouse
+ID_131069	O=C1Nc2ccc([N+](=O)[O-])cc2C1=Cc1ccc[nH]1	P35918	Vascular endothelial growth factor receptor 2	{('50078031', 'BDB')}	3.0	IC50	mouse
+ID_110562	O=C1Nc2ccccc2C1=Cc1cc(Br)cs1	P35918	Vascular endothelial growth factor receptor 2	{('50078036', 'BDB')}	3.0	IC50	mouse
+ID_58039	COc1ccc(C=C2C(=O)Nc3ccc(Cl)cc32)cc1C(C)(C)C	P35918	Vascular endothelial growth factor receptor 2	{('50078041', 'BDB')}	3.0	IC50	mouse
+ID_78632	CSc1ccc(C=C2C(=O)Nc3cccc(C)c32)s1	P35918	Vascular endothelial growth factor receptor 2	{('50078045', 'BDB')}	3.0	IC50	mouse
+ID_98919	COc1c(Br)cc(C=C2C(=O)Nc3ccc(Cl)cc32)cc1C(C)(C)C	P35918	Vascular endothelial growth factor receptor 2	{('50078143', 'BDB')}	3.0	IC50	mouse
+ID_59091	CN1C(=O)C(=Cc2ccc(Br)cc2)c2ccccc21	P35918	Vascular endothelial growth factor receptor 2	{('50078144', 'BDB')}	3.0	IC50	mouse
+ID_29876	O=C1Nc2ccccc2C1=Cc1ccc(Br)cc1	P35918	Vascular endothelial growth factor receptor 2	{('50078147', 'BDB')}	3.0	IC50	mouse
+ID_111217	COc1ccc(C=C2C(=O)Nc3ccccc32)cc1C(C)(C)C	P35918	Vascular endothelial growth factor receptor 2	{('50078151', 'BDB')}	3.0	IC50	mouse
+ID_69680	CN(C)c1ccc(C=C2C(=O)N(C)c3ccccc32)cc1	P35918	Vascular endothelial growth factor receptor 2	{('50078159', 'BDB')}	4.65	IC50	mouse
+ID_90027	Cc1ccc(C=C2C(=O)Nc3ccccc32)o1	P35918	Vascular endothelial growth factor receptor 2	{('50078161', 'BDB')}	4.13	IC50	mouse
+ID_73139	CCc1ccc(C=C2C(=O)Nc3ccccc32)o1	P35918	Vascular endothelial growth factor receptor 2	{('50078162', 'BDB')}	4.39	IC50	mouse
+ID_77857	CC(=C1C(=O)Nc2ccccc21)c1ccc(N2CCCCC2)cc1	P35918	Vascular endothelial growth factor receptor 2	{('50078165', 'BDB')}	3.0	IC50	mouse
+ID_8730	Cn1cc(Cl)c(C=C2C(=O)Nc3ccccc32)n1	P35918	Vascular endothelial growth factor receptor 2	{('50078169', 'BDB')}	3.0	IC50	mouse
+ID_48998	CC(C)(C)c1cc(C=C2C(=O)Nc3ccccc32)cc(Br)c1O	P35918	Vascular endothelial growth factor receptor 2	{('50078170', 'BDB')}	4.33	IC50	mouse
+ID_158101	O=C1Nc2ccc(Br)cc2C1=Cc1ccc(N2CCOCC2)cc1	P35918	Vascular endothelial growth factor receptor 2	{('50078172', 'BDB')}	4.3	IC50	mouse
+ID_100159	CCc1c(C)[nH]c(C=C2C(=O)Nc3ccccc32)c1C	P35918	Vascular endothelial growth factor receptor 2	{('50078181', 'BDB')}	3.0	IC50	mouse
+ID_67873	O=CN1CCN(c2ccc(C=C3C(=O)Nc4ccc(Br)cc43)cc2)CC1	P35918	Vascular endothelial growth factor receptor 2	{('50078182', 'BDB')}	4.0	IC50	mouse
+ID_166345	COc1ccc(C(=O)CC(C)C)c(O)c1	P05480	Tyrosine-protein kinase SRC	{('50522632', 'BDB')}	3.95	IC50	mouse
+ID_28991	CC(=O)c1c(O)cc(O)cc1O	P05480	Tyrosine-protein kinase SRC	{('50522642', 'BDB')}	3.71	IC50	mouse
+ID_98131	O=C(CCCN1CCCCC1)c1c(O)cc(O)cc1O	P05480	Tyrosine-protein kinase SRC	{('50522659', 'BDB')}	3.74	IC50	mouse
+ID_96193	Clc1nc(NCc2ccccn2)c2c(-c3ccccc3)cccc2n1	P97477	Serine/threonine-protein kinase Aurora-A	{('705914', 'BDB'), ('705883', 'BDB'), ('923969', 'BDB')}	4.4	IC50	mouse
+ID_91758	Nc1ncnc2c1nc(N)n2C1OC(COP(=O)(P)OC2C(O)C(COP(=O)(O)OC3C(O)C(CO)OC3n3c(N)nc4c(N)ncnc43)OC2n2c(N)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('50812776', 'BDB')}	4.0	IC50	mouse
+ID_173253	Cn1ncc(-c2cc3c(cn2)cnn3-c2ccccc2F)c1N1CCC(N)CC1	P06803		{('434623', 'BDB')}		IC50	mouse
+ID_84167	CN(C)CCCn1nc(C2=C(c3cn(-c4csc5ccccc45)c4ccccc34)C(=O)NC2=O)c2ccccc21	P11440	Cyclin-dependent kinase 1	{('50300957', 'BDB')}		IC50	mouse
+ID_80087	CCCCCC(NC)c1c(O)cc(O)c2c(=O)cc(-c3ccccc3)oc12	P22518	Dual specificity protein kinase CLK1	{('50074142', 'BDB'), ('50934407', 'BDB'), ('50934408', 'BDB')}		IC50	mouse
+ID_125021	O=C1Cc2c([nH]c3c(C=CC(=O)c4ccccc4)cccc23)-c2cccnc2N1	P22518	Dual specificity protein kinase CLK1	{('50109076', 'BDB')}		IC50	mouse
+ID_172797	O=C(C=Cc1cccc2c3c([nH]c12)-c1cccnc1NC(=O)C3)Nc1ccccc1	P22518	Dual specificity protein kinase CLK1	{('50109078', 'BDB')}		IC50	mouse
+ID_80551	O=C(O)c1nc2ccc(I)cc2c2[nH]c3c(F)cccc3c12	P22518	Dual specificity protein kinase CLK1	{('50363969', 'BDB')}		IC50	mouse
+ID_6056	CCCNC1=NC(=Cc2cc(OC)c(OC)c(OC)c2)C(=O)N1C	P22518	Dual specificity protein kinase CLK1	{('50648100', 'BDB')}		IC50	mouse
+ID_98763	CCCNC1=NC(=Cc2ccc3c(c2)OCO3)C(=O)N1c1ccccc1	P22518	Dual specificity protein kinase CLK1	{('50648102', 'BDB')}		IC50	mouse
+ID_134439	CCCNC1=NC(=Cc2ccccc2O)C(=O)N1C	P22518	Dual specificity protein kinase CLK1	{('50648262', 'BDB')}		IC50	mouse
+ID_56300	CCOC(=O)Nc1ccc2ncc(-c3cccnc3)n2n1	P22518	Dual specificity protein kinase CLK1	{('50824168', 'BDB')}		IC50	mouse
+ID_156687	O=c1cc(-c2ccccc2)oc2c(C3CCCCN3)c(O)cc(O)c12	P22518	Dual specificity protein kinase CLK1	{('50934399', 'BDB')}		IC50	mouse
+ID_64112	COc1cc(O)c(C2CCCCN2)c2oc(-c3ccccc3)cc(=O)c12	P22518	Dual specificity protein kinase CLK1	{('50934400', 'BDB')}		IC50	mouse
+ID_95586	COc1cc(O)c(C2CCCCN2C)c2oc(-c3ccccc3)cc(=O)c12	P22518	Dual specificity protein kinase CLK1	{('50934401', 'BDB')}		IC50	mouse
+ID_129525	O=c1cc(-c2ccccc2)oc2c(C3CCCN3)c(O)cc(O)c12	P22518	Dual specificity protein kinase CLK1	{('50934405', 'BDB')}		IC50	mouse
+ID_136692	COc1ccc2[nH]c3c(c4c(c5ccnn53)C(=O)NC4=O)c2c1	P22518	Dual specificity protein kinase CLK1	{('50940147', 'BDB')}		IC50	mouse
+ID_61436	NC(=O)c1c(O)cc(O)c2c1oc1c(=O)[nH]c(=O)[nH]c12	P22518	Dual specificity protein kinase CLK1	{('50953537', 'BDB')}		IC50	mouse
+ID_84151	NC(=O)c1c(O)cc(O)c2c1oc1c(=O)[nH]cnc12	P22518	Dual specificity protein kinase CLK1	{('50953778', 'BDB')}		IC50	mouse
+ID_43127	CC(=O)C1C(=O)C=C2Oc3c(C(N)=O)c(O)cc(O)c3C2(C)C1=O	P22518	Dual specificity protein kinase CLK1	{('50953853', 'BDB')}		IC50	mouse
+ID_102378	NCCOCCOCCOc1ccc(NC2=NC(=Cc3ccccc3)C(=O)N2)cc1	P22518	Dual specificity protein kinase CLK1	{('51084210', 'BDB')}		IC50	mouse
+ID_96092	NCCOCCOCCO	P22518	Dual specificity protein kinase CLK1	{('51084213', 'BDB')}		IC50	mouse
+ID_57756	O=C1NC(Nc2ccccc2)=NC1=Cc1ccccc1	P22518	Dual specificity protein kinase CLK1	{('51084214', 'BDB')}		IC50	mouse
+ID_741	Nc1cccc(Nc2nc3ccccc3nc2C(=O)O)c1	P22518	Dual specificity protein kinase CLK1	{('51101306', 'BDB')}		IC50	mouse
+ID_119339	O=C(O)c1nc2ccccc2nc1Nc1cccc(O)c1	P22518	Dual specificity protein kinase CLK1	{('51101312', 'BDB')}		IC50	mouse
+ID_126420	O=C(O)c1nc2ccccc2nc1Nc1cccc(N2CCOCC2)c1	P22518	Dual specificity protein kinase CLK1	{('51101324', 'BDB')}		IC50	mouse
+ID_7512	O=C(O)c1nc2ccccc2nc1Nc1ccc(O)cc1	P22518	Dual specificity protein kinase CLK1	{('51101343', 'BDB')}		IC50	mouse
+ID_120498	O=C(O)c1nc2ccccc2nc1Nc1ccccc1O	P22518	Dual specificity protein kinase CLK1	{('51101352', 'BDB')}		IC50	mouse
+ID_80551	O=C(O)c1nc2ccc(I)cc2c2[nH]c3c(F)cccc3c12	O35491	Dual specificity protein kinase CLK2	{('50363985', 'BDB')}		IC50	mouse
+ID_56300	CCOC(=O)Nc1ccc2ncc(-c3cccnc3)n2n1	O35491	Dual specificity protein kinase CLK2	{('50822974', 'BDB')}		IC50	mouse
+ID_102378	NCCOCCOCCOc1ccc(NC2=NC(=Cc3ccccc3)C(=O)N2)cc1	O35491	Dual specificity protein kinase CLK2	{('51084204', 'BDB')}		IC50	mouse
+ID_96092	NCCOCCOCCO	O35491	Dual specificity protein kinase CLK2	{('51084207', 'BDB')}		IC50	mouse
+ID_57756	O=C1NC(Nc2ccccc2)=NC1=Cc1ccccc1	O35491	Dual specificity protein kinase CLK2	{('51084208', 'BDB')}		IC50	mouse
+ID_80551	O=C(O)c1nc2ccc(I)cc2c2[nH]c3c(F)cccc3c12	O35492	Dual specificity protein kinase CLK3	{('50363998', 'BDB')}		IC50	mouse
+ID_134439	CCCNC1=NC(=Cc2ccccc2O)C(=O)N1C	O35492	Dual specificity protein kinase CLK3	{('50648111', 'BDB')}		IC50	mouse
+ID_98763	CCCNC1=NC(=Cc2ccc3c(c2)OCO3)C(=O)N1c1ccccc1	O35492	Dual specificity protein kinase CLK3	{('50648263', 'BDB')}		IC50	mouse
+ID_56300	CCOC(=O)Nc1ccc2ncc(-c3cccnc3)n2n1	O35492	Dual specificity protein kinase CLK3	{('50823758', 'BDB')}		IC50	mouse
+ID_102378	NCCOCCOCCOc1ccc(NC2=NC(=Cc3ccccc3)C(=O)N2)cc1	O35492	Dual specificity protein kinase CLK3	{('51084198', 'BDB')}		IC50	mouse
+ID_96092	NCCOCCOCCO	O35492	Dual specificity protein kinase CLK3	{('51084201', 'BDB')}		IC50	mouse
+ID_57756	O=C1NC(Nc2ccccc2)=NC1=Cc1ccccc1	O35492	Dual specificity protein kinase CLK3	{('51084202', 'BDB')}		IC50	mouse
+ID_80551	O=C(O)c1nc2ccc(I)cc2c2[nH]c3c(F)cccc3c12	O35493	Dual specificity protein kinase CLK4	{('50364078', 'BDB')}		IC50	mouse
+ID_56300	CCOC(=O)Nc1ccc2ncc(-c3cccnc3)n2n1	O35493	Dual specificity protein kinase CLK4	{('50825013', 'BDB')}		IC50	mouse
+ID_102378	NCCOCCOCCOc1ccc(NC2=NC(=Cc3ccccc3)C(=O)N2)cc1	O35493	Dual specificity protein kinase CLK4	{('51084258', 'BDB')}		IC50	mouse
+ID_96092	NCCOCCOCCO	O35493	Dual specificity protein kinase CLK4	{('51084261', 'BDB')}		IC50	mouse
+ID_57756	O=C1NC(Nc2ccccc2)=NC1=Cc1ccccc1	O35493	Dual specificity protein kinase CLK4	{('51084262', 'BDB')}		IC50	mouse
+ID_84167	CN(C)CCCn1nc(C2=C(c3cn(-c4csc5ccccc45)c4ccccc34)C(=O)NC2=O)c2ccccc21	P63085	MAP kinase ERK2	{('50300886', 'BDB')}		IC50	mouse
+ID_127706	CC(O)CNC(=O)c1cnccc1Nc1nc(-c2cc(Cl)ccc2F)ccc1C(C)C	P36898		{('534141', 'BDB')}		IC50	mouse
+ID_26263	CC(O)CNC(=O)c1cnccc1Nc1cc(-c2cc(Cl)ccc2F)ncc1Br	P36898		{('534147', 'BDB')}		IC50	mouse
+ID_47478	CC(O)CNC(=O)c1cnccc1Nc1cc(-c2cc(Cl)ccc2F)ncc1C(C)C	P36898		{('534153', 'BDB')}		IC50	mouse
+ID_19229	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NCC(C)O	P36898		{('534159', 'BDB')}		IC50	mouse
+ID_1384	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NC(C)CO	P36898		{('534180', 'BDB')}		IC50	mouse
+ID_83686	CC(O)CNC(=O)c1cnccc1Nc1cc(-c2cc(Cl)ccc2F)ncc1N(C)C	P36898		{('534216', 'BDB')}		IC50	mouse
+ID_76857	COC(C)(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NCC(C)O	P36898		{('534222', 'BDB')}		IC50	mouse
+ID_71885	CC(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NCCNS(C)(=O)=O	P36898		{('534228', 'BDB')}		IC50	mouse
+ID_103166	CC(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NCCNC(=O)OC(C)(C)C	P36898		{('534234', 'BDB')}		IC50	mouse
+ID_27330	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1n[nH]cc1C(=O)NCC(C)O	P36898		{('534240', 'BDB')}		IC50	mouse
+ID_99077	CC(O)CNC(=O)c1c[nH]nc1Nc1cc(-c2cc(Cl)ccc2F)ncc1C(C)C	P36898		{('534246', 'BDB')}		IC50	mouse
+ID_72656	CC(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NC(CO)CO	P36898		{('534252', 'BDB')}		IC50	mouse
+ID_10876	C=C(C)c1c(Nc2ccncc2C(=O)OC)cc(-c2cc(Cl)ccc2F)nc1NC(=O)OC(C)(C)C	P36898		{('534258', 'BDB')}		IC50	mouse
+ID_92289	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NC(CC)CO	P36898		{('534264', 'BDB')}		IC50	mouse
+ID_51202	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NC(CO)C(C)C	P36898		{('534270', 'BDB'), ('534276', 'BDB')}		IC50	mouse
+ID_109314	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NCCO	P36898		{('534282', 'BDB')}		IC50	mouse
+ID_63723	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)NC1CC1	P36898		{('534288', 'BDB')}		IC50	mouse
+ID_160692	CC(O)CNC(=O)c1cnccc1Nc1cc(-c2ccccc2)ncc1C(C)C	P36898		{('534294', 'BDB')}		IC50	mouse
+ID_146451	CC(O)CNC(=O)c1cnccc1Nc1cc(-c2cc(Cl)ccc2F)ncc1C1CC1	P36898		{('534312', 'BDB')}		IC50	mouse
+ID_81506	Fc1ccc(Cl)cc1-c1cc(Nc2ccnc3[nH]ccc23)c(C2CC2)cn1	P36898		{('534318', 'BDB')}		IC50	mouse
+ID_99021	O=C(NC(CO)CO)c1cnccc1Nc1cc(-c2cc(Cl)ccc2F)ncc1N1CCCC1	P36898		{('534324', 'BDB')}		IC50	mouse
+ID_163685	C=C(C)c1cnc(-c2cc(Cl)ccc2F)cc1Nc1ccncc1C(=O)N1CCCC1	P36898		{('534330', 'BDB')}		IC50	mouse
+ID_55647	COc1ccc(Cn2ncc3c(Nc4cc(-c5cc(Cl)ccc5F)ncc4C(C)C)ncnc32)cc1	P36898		{('534342', 'BDB')}		IC50	mouse
+ID_2564	COc1ccc2c(c1)c1c3c(c4c5ccccc5n(C)c4c1n2CCC#N)C(=O)NC3=O	P16277	Tyrosine-protein kinase BLK	{('50003443', 'BDB')}		IC50	mouse
+ID_36131	Cn1c2ccccc2c2c3c(c4c5ccccc5n(CCC#N)c4c21)CNC3=O	P16277	Tyrosine-protein kinase BLK	{('50003460', 'BDB')}		IC50	mouse
+ID_44800	COc1ccc2c(c1)c1c3c(c4c5cc(OC)ccc5n(CCC#N)c4c1n2C)CNC3=O	P16277	Tyrosine-protein kinase BLK	{('50003464', 'BDB')}		IC50	mouse
+ID_122737	CN(C)CC(O)Cn1c2ccccc2c2c3c(c4c5ccccc5n(C)c4c21)C(=O)NC3	P16277	Tyrosine-protein kinase BLK	{('50003473', 'BDB')}		IC50	mouse
+ID_35359	COc1ccc2c(c1)c1c3c(c4c5ccccc5n(C)c4c1n2CC(O)CN(C)C)C(=O)NC3	P16277	Tyrosine-protein kinase BLK	{('50003492', 'BDB')}		IC50	mouse
+ID_12131	COc1ccc(CCNC(=O)c2cc(NCc3cc(O)ccc3O)ccc2O)cc1	Q01279	Epidermal growth factor receptor erbB1	{('50185633', 'BDB')}		IC50	mouse
+ID_13180	O=C(NCc1ccccc1)c1ccc(NCc2cc(O)ccc2O)cc1	Q01279	Epidermal growth factor receptor erbB1	{('50185640', 'BDB')}		IC50	mouse
+ID_15551	O=C(NCCc1ccccc1)c1ccc(NCc2cc(O)ccc2O)cc1	Q01279	Epidermal growth factor receptor erbB1	{('50185657', 'BDB')}		IC50	mouse
+ID_48369	O=C(NCCN1CCOCC1)c1cc(NCc2cc(O)ccc2O)ccc1O	Q01279	Epidermal growth factor receptor erbB1	{('50185665', 'BDB')}		IC50	mouse
+ID_84167	CN(C)CCCn1nc(C2=C(c3cn(-c4csc5ccccc45)c4ccccc34)C(=O)NC2=O)c2ccccc21	Q01279	Epidermal growth factor receptor erbB1	{('50300827', 'BDB')}		IC50	mouse
+ID_104635	CC(C)(O)Cn1c(=NC(=O)c2ccnc(-c3ccccc3)c2)[nH]c2ccccc21	Q01279	Epidermal growth factor receptor erbB1	{('51235741', 'BDB')}		IC50	mouse
+ID_9549	CCCCOP(=O)(OCCCC)C(C#N)C(C)=O	Q03137	Ephrin type-A receptor 4	{('82609', 'BDB'), ('82475', 'BDB')}		IC50	mouse
+ID_35540	CC1Cc2ccccc2N1Cc1nc2cc(C(F)(F)F)ccc2c(=O)[nH]1	Q03137	Ephrin type-A receptor 4	{('82632', 'BDB'), ('82498', 'BDB')}		IC50	mouse
+ID_51307	CCN1C(=O)C(C=NN=Cc2ccccc2)c2ccc(C3=NNC(=O)CC3)cc21	Q03137	Ephrin type-A receptor 4	{('82503', 'BDB'), ('82637', 'BDB')}		IC50	mouse
+ID_143354	CC(CC(=O)c1ccccc1)N=Nc1nc2ccccc2s1	Q03137	Ephrin type-A receptor 4	{('82660', 'BDB'), ('82526', 'BDB')}		IC50	mouse
+ID_87151	CC(C)N(Cc1ccccc1)c1nc(Nc2ccc3ncsc3c2)[nH]c(=O)n1	P16092	Fibroblast growth factor receptor 1	{('50300691', 'BDB')}		IC50	mouse
+ID_148578	CC(C)(Nc1nc(NO)nc(Nc2ccc3ncsc3c2)n1)c1ccccc1	P16092	Fibroblast growth factor receptor 1	{('50300693', 'BDB')}		IC50	mouse
+ID_154000	CC(C)(Nc1nc(Nc2ccc3ncsc3c2)[nH]c(=O)n1)c1ccccc1	P16092	Fibroblast growth factor receptor 1	{('50300702', 'BDB')}		IC50	mouse
+ID_84036	CCN(Cc1ccccc1)c1nc(Nc2ccc3ncsc3c2)[nH]c(=O)n1	P16092	Fibroblast growth factor receptor 1	{('50300715', 'BDB')}		IC50	mouse
+ID_78632	CSc1ccc(C=C2C(=O)Nc3cccc(C)c32)s1	P35969	Vascular endothelial growth factor receptor 1	{('50112218', 'BDB')}		IC50	mouse
+ID_58039	COc1ccc(C=C2C(=O)Nc3ccc(Cl)cc32)cc1C(C)(C)C	P35969	Vascular endothelial growth factor receptor 1	{('50112222', 'BDB')}		IC50	mouse
+ID_8730	Cn1cc(Cl)c(C=C2C(=O)Nc3ccccc32)n1	P35969	Vascular endothelial growth factor receptor 1	{('50112226', 'BDB')}		IC50	mouse
+ID_131069	O=C1Nc2ccc([N+](=O)[O-])cc2C1=Cc1ccc[nH]1	P35969	Vascular endothelial growth factor receptor 1	{('50112239', 'BDB')}		IC50	mouse
+ID_66952	O=C1Nc2ccccc2C1=Cc1ccc(C(=O)O)cc1	P35969	Vascular endothelial growth factor receptor 1	{('50112253', 'BDB')}		IC50	mouse
+ID_67873	O=CN1CCN(c2ccc(C=C3C(=O)Nc4ccc(Br)cc43)cc2)CC1	P35969	Vascular endothelial growth factor receptor 1	{('50112267', 'BDB')}		IC50	mouse
+ID_98919	COc1c(Br)cc(C=C2C(=O)Nc3ccc(Cl)cc32)cc1C(C)(C)C	P35969	Vascular endothelial growth factor receptor 1	{('50112295', 'BDB')}		IC50	mouse
+ID_77857	CC(=C1C(=O)Nc2ccccc21)c1ccc(N2CCCCC2)cc1	P35969	Vascular endothelial growth factor receptor 1	{('50112296', 'BDB')}		IC50	mouse
+ID_158101	O=C1Nc2ccc(Br)cc2C1=Cc1ccc(N2CCOCC2)cc1	P35969	Vascular endothelial growth factor receptor 1	{('50112314', 'BDB')}		IC50	mouse
+ID_59091	CN1C(=O)C(=Cc2ccc(Br)cc2)c2ccccc21	P35969	Vascular endothelial growth factor receptor 1	{('50112328', 'BDB')}		IC50	mouse
+ID_29876	O=C1Nc2ccccc2C1=Cc1ccc(Br)cc1	P35969	Vascular endothelial growth factor receptor 1	{('50112346', 'BDB')}		IC50	mouse
+ID_110562	O=C1Nc2ccccc2C1=Cc1cc(Br)cs1	P35969	Vascular endothelial growth factor receptor 1	{('50112413', 'BDB')}		IC50	mouse
+ID_2375	O=C1Nc2ccccc2C1=Cc1ccco1	P35969	Vascular endothelial growth factor receptor 1	{('50112426', 'BDB')}		IC50	mouse
+ID_100159	CCc1c(C)[nH]c(C=C2C(=O)Nc3ccccc32)c1C	P35969	Vascular endothelial growth factor receptor 1	{('50112443', 'BDB')}		IC50	mouse
+ID_111217	COc1ccc(C=C2C(=O)Nc3ccccc32)cc1C(C)(C)C	P35969	Vascular endothelial growth factor receptor 1	{('50112465', 'BDB')}		IC50	mouse
+ID_84167	CN(C)CCCn1nc(C2=C(c3cn(-c4csc5ccccc45)c4ccccc34)C(=O)NC2=O)c2ccccc21	P15208	Insulin receptor	{('50127290', 'BDB')}		IC50	mouse
+ID_150583	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)NCC1CCCCC1	P06240	Tyrosine-protein kinase LCK	{('50246887', 'BDB')}		IC50	mouse
+ID_86716	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)Nc1ccc(Cl)cc1Cl	P06240	Tyrosine-protein kinase LCK	{('50246890', 'BDB')}		IC50	mouse
+ID_106644	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)Nc1ccccc1[N+](=O)[O-]	P06240	Tyrosine-protein kinase LCK	{('50246893', 'BDB')}		IC50	mouse
+ID_27299	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)N1CCN(C=O)CC1	P06240	Tyrosine-protein kinase LCK	{('50246895', 'BDB')}		IC50	mouse
+ID_169388	Cc1cccc(C(C)(C)C)c1NC(=O)c1sc(NC(=O)OC(C)(C)C)nc1C	P06240	Tyrosine-protein kinase LCK	{('50246896', 'BDB')}		IC50	mouse
+ID_142942	COc1cc(NC(=O)c2sc(NC(=O)OC(C)(C)C)nc2C)cc(C(F)(F)F)c1	P06240	Tyrosine-protein kinase LCK	{('50246897', 'BDB')}		IC50	mouse
+ID_160288	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)Nc1ccccc1	P06240	Tyrosine-protein kinase LCK	{('50246910', 'BDB')}		IC50	mouse
+ID_171262	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)Nc1c(C(C)C)cccc1C(C)C	P06240	Tyrosine-protein kinase LCK	{('50246918', 'BDB')}		IC50	mouse
+ID_135815	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)NCC(C)(C)C	P06240	Tyrosine-protein kinase LCK	{('50246932', 'BDB')}		IC50	mouse
+ID_87190	Cc1cc(NC(=O)c2sc(NC(=O)OC(C)(C)C)nc2C)c(C)[nH]1	P06240	Tyrosine-protein kinase LCK	{('50246934', 'BDB')}		IC50	mouse
+ID_77751	Cc1nc(NC(=O)OC(C)(C)C)sc1C(=O)NC(C)C(C)C	P06240	Tyrosine-protein kinase LCK	{('50246937', 'BDB')}		IC50	mouse
+ID_27772	COc1cc(OC)cc(-c2cc3cnc(NCCCOCc4ccccc4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9970', 'BDB')}		IC50	mouse
+ID_41671	COc1cc(OC)cc(-c2cc3cnc(NCCCCOCc4ccccc4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9971', 'BDB')}		IC50	mouse
+ID_71250	COc1cc(OC)cc(-c2cc3cnc(NCCCCCOCc4ccccc4)cc3nc2NC(=O)NC(C)(C)C)c1	P05622	Platelet-derived growth factor receptor beta	{('9972', 'BDB')}		IC50	mouse
+ID_65699	O=C(Nc1cccc(C(F)(F)F)c1)c1ccc(CCNc2ncnc3ccsc23)cc1	P97477	Serine/threonine-protein kinase Aurora-A	{('47983', 'BDB')}		IC50	mouse
+ID_77997	O=C(Nc1cccc(CCNc2ncnc3ccsc23)c1)Nc1cccc(C(F)(F)F)c1	P97477	Serine/threonine-protein kinase Aurora-A	{('47985', 'BDB')}		IC50	mouse
+ID_25524	O=C(Nc1cccc(C(F)(F)F)c1)Nc1nc(CCNc2ncnc3ccsc23)cs1	P97477	Serine/threonine-protein kinase Aurora-A	{('47989', 'BDB')}		IC50	mouse
+ID_100028	O=C(Cc1cccc(C(F)(F)F)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1	P97477	Serine/threonine-protein kinase Aurora-A	{('47991', 'BDB')}		IC50	mouse
+ID_7788	Nc1ncnc2c1nc(Br)n2C1OC(COP(=O)(O)OC2C(O)C(COP(=O)(O)OC3C(O)C(COP(=O)(O)OC4C(O)C(CO)OC4n4c(Br)nc5c(N)ncnc54)OC3n3c(Br)nc4c(N)ncnc43)OC2n2c(Br)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('50037296', 'BDB')}		IC50	mouse
+ID_41231	Nc1ncnc2c1nc(Br)n2C1OC(COP(=O)(O)OC2C(O)C(COP(=O)(O)OC3C(O)C(CO)OC3n3c(Br)nc4c(N)ncnc43)OC2n2c(Br)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('50037302', 'BDB')}		IC50	mouse
+ID_157951	Nc1ncnc2c1nc(Br)n2C1OC(COP(=O)(O)OC2C(O)C(COP(=O)(O)OC3C(O)C(COP(=O)(O)OC4C(O)C(COP(=O)(O)OC5C(O)C(COP(=O)(O)O)OC5n5c(Br)nc6c(N)ncnc65)OC4n4c(Br)nc5c(N)ncnc54)OC3n3c(Br)nc4c(N)ncnc43)OC2n2c(Br)nc3c(N)ncnc32)C(O)C1O	Q05921	RNase L	{('50037304', 'BDB')}		IC50	mouse
+ID_12802	Nc1ncnc2c1ncn2C1OC(COP(=O)(O)OC2C(COP(=O)(O)OC3C(OP(=O)(O)O)OC(n4cnc5c(N)ncnc54)C3O)OC(n3cnc4c(N)ncnc43)C2O)C(O)C1O	Q05921	RNase L	{('50725573', 'BDB')}		IC50	mouse
+ID_36940	CN(C)S(=O)(=O)n1cc(-c2nc(-c3nc(C4(c5ccccc5)CC4)n(C)n3)cnc2N)cn1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50704801', 'BDB')}		IC50	mouse
+ID_147200	CC(=O)Nc1nc(C)c(-c2cnc(Cc3cccc(C(=O)O)c3)o2)s1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50981263', 'BDB')}		IC50	mouse
+ID_46390	CC(=O)Nc1nc(C)c(-c2cnc(Nc3cccc(C(=O)O)c3)o2)s1	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('50981264', 'BDB')}		IC50	mouse
+ID_88785	CNC(=O)C(C)Cn1cnc2ccc(-c3cnc(OC)c(NS(=O)(=O)c4ccc(F)cc4Cl)c3)cc2c1=O	Q9JHG7	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform	{('51341827', 'BDB')}		IC50	mouse
