@@ -1,0 +1,2 @@
+training_data,timestamp,train_samples,train_features,nb_epoch,best_batch,from_batch_sizes,layer1_size,layer2_size,loss,mse,mae,r2
+kinase.csv,2026-04-07T08:56:22.229163,125407,167,50,32,"[16, 32, 64]",64,32,1.025206208229065,1.025206208229065,0.8000539541244507,0.4146864037114364
