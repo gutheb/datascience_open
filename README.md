@@ -33,3 +33,5 @@ Training cell — prints the first loss value per batch size. If you see NaN pri
 - evaluate/predict cells: replaced redundant `np.array(list((x_test))).astype(float)` with pre-computed `X_test`.
 
 
+# second traing data
+Tang, we (2024), “Prediction of pIC50 bioactive values based on knowledge priors and attention neural networks”, Mendeley Data, V1, doi: 10.17632/4pvs4w3dng.1
