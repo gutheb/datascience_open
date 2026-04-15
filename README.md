@@ -25,6 +25,11 @@ Data cleaning cell — now drops rows where standard_value is null or ≤ 0 befo
 
 Training cell — prints the first loss value per batch size. If you see NaN printed there, it confirms a data issue upstream. A real number (e.g. 4.23) means training is working and the graph should appear.
 
+# some comfort
+- choosing best batch size is automated
+- dataframes of processed data get saved in CSVs
+- performance of model can be evaluated by saving parameters like training size and epochs as well as quality variables automatically into a csv every run
+
 
 # Bug fixes commented by claude sonnet 4.6
 
@@ -33,3 +38,5 @@ Training cell — prints the first loss value per batch size. If you see NaN pri
 - evaluate/predict cells: replaced redundant `np.array(list((x_test))).astype(float)` with pre-computed `X_test`.
 
 
+# second training data
+Tang, we (2024), “Prediction of pIC50 bioactive values based on knowledge priors and attention neural networks”, Mendeley Data, V1, doi: 10.17632/4pvs4w3dng.1
